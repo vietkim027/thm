@@ -1,4 +1,3 @@
-<h1>Cloud Shell ‐ Google Cloud: Free VPS Lifetime 2024</h1>
 https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=ide%2Cterminal
 <br>docker run -p 8080:80 dorowu/ubuntu-desktop-lxde-vnc
 <br>
