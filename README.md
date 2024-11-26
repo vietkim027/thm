@@ -15,7 +15,7 @@ Cloud Shell - Google Cloud: Free VPS Lifetime 2024
 ***
 Contact: https://youtube.com/@giapca
 ***
-Jitbit Macro Recorder 5.9.0.0<br>
+Jitbit Macro Recorder 5.9.0.0 Full<br>
 * On HAX<br>
 * ENokcYSKQS1XsrhrqKC6j+ieiSJkwolCD9ZBFro59VlmwKz/J4AfCP7+
 ***
