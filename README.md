@@ -24,9 +24,10 @@ Network Drivers Offline install: 3DPNet (3DP Net detects ethernet card automatic
 * For Windows XP, Vista, server 2003-2008: https://www.3dpchip.com/new/3DP_Net_v1703.exe<br>
 ***
 Office 365 Download and Install Word, Excel, PowerPoint only<br>
+* Office Deploy Tool: https://www.microsoft.com/en-us/download/details.aspx?id=49117 , extract to get xml file then edit yourcustom.xml
 * Download Direct link: https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img<br>
-* Open (or Mount) above .img file then extract Office folder<br>
+* Open (or Mount) above .img file then extract Office folder and setup.exe file<br>
 * Exclude to don't install that app. Example: ExcludeApp ID="Access" "<br>
-* Copy Setup.exe, yourcustom.xml to the same folder as Office folder that you Extracted above<br>
-* Setup /configure yourcustom.xml
+* Copy yourcustom.xml to the same folder as Office folder that you Extracted above<br>
+* Cmd to run this: Setup /configure yourcustom.xml
   
