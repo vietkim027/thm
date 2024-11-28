@@ -13,8 +13,6 @@ Note:
 ***
 Cloud Shell - Google Cloud: Free VPS Lifetime 2024
 ***
-Contact: https://youtube.com/@giapca
-***
 Jitbit Macro Recorder 5.9.0.0 Full<br>
 * On HAX<br>
 * ENokcYSKQS1XsrhrqKC6j+ieiSJkwolCD9ZBFro59VlmwKz/J4AfCP7+
@@ -31,3 +29,5 @@ Office 365 Download and Install Word, Excel, PowerPoint only<br>
 * Copy yourcustom.xml to the same folder as Office folder that you Extracted above<br>
 * Cmd to run this: Setup /configure yourcustom.xml
   
+***
+Newest Video Guide Details: https://youtube.com/@giapca
