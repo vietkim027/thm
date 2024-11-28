@@ -22,4 +22,9 @@ Jitbit Macro Recorder 5.9.0.0 Full<br>
 Network Drivers Offline install: 3DPNet (3DP Net detects ethernet card automatically)<br>
 * For Windows 7, 8, 10, server 2008: https://www.3dpchip.com/new/3DP_Net_v2101.exe<br>
 * For Windows XP, Vista, server 2003-2008: https://www.3dpchip.com/new/3DP_Net_v1703.exe<br>
+***
+Office 365 Download and Install Word, Excel, PowerPoint only<br>
+* Download Direct link: https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img<br>
+* Exclude to don't install that app. E.g: <ExcludeApp ID="Access" /><br>
+* Setup /configure yourcustom.xml
   
