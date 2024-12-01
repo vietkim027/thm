@@ -17,6 +17,7 @@ Note:
 * Or `Pirate` / `C73epCeOI8Gc+GPy6jxnE+WVzbsGwmDmdXyzlBXBtikKvobSFI69Uf7+`
 * Or `RNDD TeaM` / `K93iiV+n4UEEmCMH/r+DGcCB0MIBMGEluWkL+ftsRxjji0nzPCrGCf7+`
 * Or `VietKim` / `QlbaNVIAU75XzpDwu8ACZ1SVfRNqCQYcVlOMmqByAU8PT/6l5aJX1gSw`
+* Or `bit.ly/VietTube' / `XRZOZvBkDzgCUk/+gIV6c+YKKaIcmWaBvaohHJ1GIsU/EMjp0VD7mASw`
 # Network Drivers Offline install: 3DPNet (3DP Net detects ethernet card automatically)<br>
 * For Windows 7, 8, 10, server 2008: `https://www.3dpchip.com/new/3DP_Net_v2101.exe`<br>
 * For Windows XP, Vista, server 2003-2008: `https://www.3dpchip.com/new/3DP_Net_v1703.exe`<br>
