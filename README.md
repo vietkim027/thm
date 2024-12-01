@@ -15,6 +15,7 @@ Note:
 # Jitbit Macro Recorder 5.9.0.0 Full<br>
 * `On HAX` / `ENokcYSKQS1XsrhrqKC6j+ieiSJkwolCD9ZBFro59VlmwKz/J4AfCP7+`
 * Or `Pirate` / `C73epCeOI8Gc+GPy6jxnE+WVzbsGwmDmdXyzlBXBtikKvobSFI69Uf7+`
+* Or `RNDD TeaM` / `K93iiV+n4UEEmCMH/r+DGcCB0MIBMGEluWkL+ftsRxjji0nzPCrGCf7+`
 # Network Drivers Offline install: 3DPNet (3DP Net detects ethernet card automatically)<br>
 * For Windows 7, 8, 10, server 2008: `https://www.3dpchip.com/new/3DP_Net_v2101.exe`<br>
 * For Windows XP, Vista, server 2003-2008: `https://www.3dpchip.com/new/3DP_Net_v1703.exe`<br>
