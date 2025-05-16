@@ -7,9 +7,10 @@ https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstati
 
 # Download Intel Rapid Storage Technology (RST)<br>
 `https://downloadmirror.intel.com/849939/SetupRST.exe`<br> 
-And
+And<br>
 `https://downloadmirror.intel.com/849934/SetupRST.exe`<br>
-SetupRST.exe -extractdrivers SetupRST_extracted
+CD to downloaded SetupRST.exe file then CMD:<br>
+`SetupRST.exe -extractdrivers SetupRST_extracted`<br>
 Copy SetupRST_extracted to Root folder of ISO file
 
 # Office 365 Download and Install Word, Excel, PowerPoint only<br>
