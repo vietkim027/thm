@@ -4,6 +4,14 @@ https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstati
 # Network Drivers Offline install: 3DPNet (3DP Net detects ethernet card automatically)<br>
 * For Windows 7, 8, 10, server 2008: `https://www.3dpchip.com/new/3DP_Net_v2101.exe`<br>
 * For Windows XP, Vista, server 2003-2008: `https://www.3dpchip.com/new/3DP_Net_v1703.exe`<br>
+
+# Download Intel Rapid Storage Technology (RST)<br>
+`https://downloadmirror.intel.com/849939/SetupRST.exe`<br> 
+And
+`https://downloadmirror.intel.com/849934/SetupRST.exe`<br>
+SetupRST.exe -extractdrivers SetupRST_extracted
+Copy SetupRST_extracted to Root folder of ISO file
+
 # Office 365 Download and Install Word, Excel, PowerPoint only<br>
 * Office Deploy Tool: `https://www.microsoft.com/en-us/download/details.aspx?id=49117` , extract to get xml file then edit yourcustom.xml
 * Download Direct link: `https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img`<br>
