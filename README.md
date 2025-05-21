@@ -39,7 +39,7 @@ or
 `appwiz.cpl` - Uninstall or Change a program - Control Panel\Programs\Programs and Features<br>
 `ncpa.cpl` - Network Connections - Control Panel\Network and Internet\Network Connections<br>
 
-# Goldwave
+# Goldwave V7.xx
 6VW2BWFSQ
 J5LQMV9FJ
 
