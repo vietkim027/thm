@@ -35,7 +35,7 @@ or
 
 # Useful Windows Shortcut
 `control.exe desk.cpl,,0` - Desktop icon Settings - View "This PC" or "My computer" on Desktop<br>
-`control.exe inetcpl.cpl,,4` - Internet Properties: Connections TAB
+`control.exe inetcpl.cpl,,4` - Internet Properties: Connections TAB<br>
 `appwiz.cpl` - Uninstall or Change a program - Control Panel\Programs\Programs and Features<br>
 `ncpa.cpl` - Network Connections - Control Panel\Network and Internet\Network Connections<br>
 
