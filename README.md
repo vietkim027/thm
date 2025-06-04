@@ -11,15 +11,16 @@ https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstati
 
 # Download Intel Rapid Storage Technology (RST)<br>
 Fixed Error: Windows cant't be installed on drive 0 partition 1<br>
-`https://downloadmirror.intel.com/849939/SetupRST.exe`<br> 
-And<br>
+Gen 12-15<br>
+`https://www.intel.com/content/www/us/en/download/849936/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-12th-to-15th-gen-platforms.html`<br>
+Direct URL:<br>
+https://downloadmirror.intel.com/849939/SetupRST.exe<br>
+And
 `https://downloadmirror.intel.com/849934/SetupRST.exe`<br>
 Gen 8-9<br>
 `https://www.intel.com/content/www/us/en/download/19755/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-8th-and-9th-gen-platforms.html`<br>
 Gen 12-13<br>
 `https://www.intel.com/content/www/us/en/download/849933/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-12th-to-13th-gen-platforms.html`<br>
-Gen 12-15<br>
-`https://www.intel.com/content/www/us/en/download/849936/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-12th-to-15th-gen-platforms.html`<br>
 
 CD to downloaded SetupRST.exe file then CMD:<br>
 `SetupRST.exe -extractdrivers SetupRST_extracted`<br>
