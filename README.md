@@ -52,7 +52,7 @@ or
 `appwiz.cpl` - Uninstall or Change a program - Control Panel\Programs\Programs and Features<br>
 `ncpa.cpl` - Network Connections - Control Panel\Network and Internet\Network Connections<br>
 
-# Google Gemini VEO 3 Tips
+# Google Gemini VEO 3 Free Tips
 * Change Birthday: https://myaccount.google.com/birthday/
 * `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
 * US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
