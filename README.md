@@ -54,7 +54,9 @@ or
 
 # Google Gemini VEO 3 Tips
 * Change Birthday: https://myaccount.google.com/birthday/
-* US, UK, Netherland, Germany ... IP: Urban VPN
+* `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
+* US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
+* EDU Email: `etempmail.com` or `tempmail.id.vn`
 
 # Goldwave V7.xx
 6VW2BWFSQ
