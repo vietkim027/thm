@@ -11,7 +11,7 @@ Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!<b
 
 # Create Bootable USB with both UEFI and Legacy
 `https://url.anhdvboot.com/boot-free-google`<br>
-LK1Click<br>
+LK1Click (1Click by LangKhach)<br>
 `https://drive.google.com/uc?export=download&id=1zbXZPdQNbv9PxStfhBYZWPNVdAbNPNO4`<br>
 Norton Ghost 15<br>
 `https://drive.google.com/uc?export=download&id=1XjPFzHAdCctbrZeYqHJxOvaVCE9xpzc9`<br>
