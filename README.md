@@ -55,6 +55,7 @@ or
 # Google Gemini VEO 3 Free Tips
 * Change Birthday: https://myaccount.google.com/birthday/
 * `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
+* `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
 * US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
 * EDU Email: `etempmail.com` or `tempmail.id.vn`
 
