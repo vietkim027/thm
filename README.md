@@ -51,6 +51,8 @@ or
 `control.exe inetcpl.cpl,,4` - Internet Properties: Connections TAB<br>
 `appwiz.cpl` - Uninstall or Change a program - Control Panel\Programs\Programs and Features<br>
 `ncpa.cpl` - Network Connections - Control Panel\Network and Internet\Network Connections<br>
+`timedate.cpl` - Date and Time Settings<br>
+`sysdm.cpl` - System Properties<br>  
 
 # Google Gemini VEO 3 Free Tips
 * Change Birthday: https://myaccount.google.com/birthday/
