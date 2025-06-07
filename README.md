@@ -16,7 +16,7 @@ LK1Click (1Click by LangKhach with Norton Ghost 11.5)<br>
 `https://drive.google.com/uc?export=download&id=1zbXZPdQNbv9PxStfhBYZWPNVdAbNPNO4`<br>
 Add Non-secure Boot to USB:<br>
 `https://www.ventoy.net/en/download.html`<br>
-Check Bootable USB:<br>
+Check Bootable USB with MobaLiveCD:<br>
 `https://www.mobatek.net/labs.html`<br>
 
 # Direct Download VMware 17 Workstation Pro Free Offline (64-bit, 32-bit)</br>
