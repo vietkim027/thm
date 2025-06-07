@@ -1,6 +1,16 @@
+# Google Gemini VEO 3 Free Tips
+* Change Birthday: https://myaccount.google.com/birthday/
+* `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
+* `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
+* US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
+* EDU Email: `etempmail.com` or `tempmail.id.vn`
+ 
 # Download Old Windows 10, 11 ISO Direct from Microsoft
 `https://github.com/AveYo/MediaCreationTool.bat`<br>
 Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!<br>
+
+# Create Bootable USB with both UEFI and Legacy
+`https://url.anhdvboot.com/boot-free-google`<br>
 
 # Direct Download VMware 17 Workstation Pro Free Offline (64-bit, 32-bit)</br>
 https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstation%20Pro&displayGroup=VMware%20Workstation%20Pro%2017.0%20for%20Windows&release=17.6.3&os=&servicePk=&language=EN&freeDownloads=true
@@ -53,13 +63,6 @@ or
 `ncpa.cpl` - Network Connections - Control Panel\Network and Internet\Network Connections<br>
 `timedate.cpl` - Date and Time Settings<br>
 `sysdm.cpl` - System Properties<br>  
-
-# Google Gemini VEO 3 Free Tips
-* Change Birthday: https://myaccount.google.com/birthday/
-* `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
-* `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
-* US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
-* EDU Email: `etempmail.com` or `tempmail.id.vn`
 
 # Goldwave V7.xx
 6VW2BWFSQ
