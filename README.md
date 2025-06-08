@@ -10,12 +10,19 @@
 Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!<br>
 
 # Create Bootable USB with both UEFI and Legacy
+Method 1: AnhdvBoot<br>
 `https://url.anhdvboot.com/boot-free-google`<br>
 Password: `anhdvboot.com`<br>
+Method 2: 
+https://rufus.ie/
+Alt+E till you see "Dual UEFI/BIOS mode enabled"<br>
+Method 3: LK1Click
 LK1Click (1Click by LangKhach with Norton Ghost 11.5)<br>
 `https://drive.google.com/uc?export=download&id=1zbXZPdQNbv9PxStfhBYZWPNVdAbNPNO4`<br>
+
 Add Non-secure Boot to USB:<br>
 `https://www.ventoy.net/en/download.html`<br>
+
 Check Bootable USB with MobaLiveCD:<br>
 `https://www.mobatek.net/labs.html`<br>
 
