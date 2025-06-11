@@ -60,7 +60,7 @@ Copy SetupRST_extracted to Root folder of ISO file
 * Download Direct link: `https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img`<br>
 * Open (or Mount) above .img file then extract Office folder and setup.exe file<br>
 * Exclude to don't install that app. Example:<br>
-      <ExcludeApp ID="Access" />
+      `<ExcludeApp ID="Access" />
       <ExcludeApp ID="Groove" />
       <ExcludeApp ID="InfoPath" />
       <ExcludeApp ID="Lync" />
@@ -70,7 +70,7 @@ Copy SetupRST_extracted to Root folder of ISO file
       <ExcludeApp ID="Teams" />
       <ExcludeApp ID="OneDrive" />
       <ExcludeApp ID="SharePointDesigner" />
-      <ExcludeApp ID="Visio" />
+      <ExcludeApp ID="Visio" />`<br>
 * Copy yourcustom.xml to the same folder as Office folder that you Extracted above<br>
 * Cmd to run this: Setup /configure yourcustom.xml<br>
 
