@@ -1,5 +1,5 @@
 # Google Gemini VEO 3 Free Tips
-**VEO 3 Prompts Update daily: https://prompt-master-ai.blogspot.com**
+**VEO 3 Prompts Update daily: https://prompt-master-ai.blogspot.com**<br>
 **VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
 * `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
