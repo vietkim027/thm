@@ -59,7 +59,18 @@ Copy SetupRST_extracted to Root folder of ISO file
 * Office Deploy Tool: `https://www.microsoft.com/en-us/download/details.aspx?id=49117` , extract to get xml file then edit yourcustom.xml
 * Download Direct link: `https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img`<br>
 * Open (or Mount) above .img file then extract Office folder and setup.exe file<br>
-* Exclude to don't install that app. Example: ExcludeApp ID="Access" "<br>
+* Exclude to don't install that app. Example:<br>
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="InfoPath" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="Outlook" />
+      <ExcludeApp ID="Project" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="Teams" />
+      <ExcludeApp ID="OneDrive" />
+      <ExcludeApp ID="SharePointDesigner" />
+      <ExcludeApp ID="Visio" />
 * Copy yourcustom.xml to the same folder as Office folder that you Extracted above<br>
 * Cmd to run this: Setup /configure yourcustom.xml<br>
 
