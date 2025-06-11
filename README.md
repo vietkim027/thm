@@ -1,5 +1,6 @@
 # Google Gemini VEO 3 Free Tips
 **VEO 3 Prompts Update daily: https://prompt-master-ai.blogspot.com**
+**VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
 * `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
 * `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
@@ -12,12 +13,11 @@ Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!<b
 * Bypass Windows 11's account during installation, Shift + F10, type: OOBEBYPASSNRO
 
 # Create Bootable USB with both UEFI and Legacy
-Method 1: AnhdvBoot<br>
+Method 1: https://rufus.ie/
+Alt+E till you see "Dual UEFI/BIOS mode enabled"<br>
+Method 2: AnhdvBoot<br>
 `https://url.anhdvboot.com/boot-free-google`<br>
 Password: `anhdvboot.com`<br>
-Method 2: 
-https://rufus.ie/
-Alt+E till you see "Dual UEFI/BIOS mode enabled"<br>
 Method 3: LK1Click
 LK1Click (1Click by LangKhach with Norton Ghost 11.5)<br>
 `https://drive.google.com/uc?export=download&id=1zbXZPdQNbv9PxStfhBYZWPNVdAbNPNO4`<br>
@@ -36,7 +36,7 @@ https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstati
 * For Windows XP, Vista, server 2003-2008: `https://www.3dpchip.com/new/3DP_Net_v1703.exe`<br>
 
 # Download Intel Rapid Storage Technology (RST)<br>
-Fixed Error: Windows cant't be installed on drive 0 partition 1<br>
+**Fixed Error: Windows can't be installed on drive 0 partition 1<**br>
 Gen 12-15<br>
 `https://www.intel.com/content/www/us/en/download/849936/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-12th-to-15th-gen-platforms.html`<br>
 Direct URL:<br>
