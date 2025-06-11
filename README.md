@@ -15,6 +15,7 @@ Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!<b
 # Create Bootable USB with both UEFI and Legacy
 Method 1: https://rufus.ie/
 Alt+E till you see "Dual UEFI/BIOS mode enabled"<br>
+![Image Boot-USB-VietTube](https://github.com/vietkim027/thm/blob/main/usb-boot-uefi-legacy-VietTube.png)<br>
 Then, add RST driver: https://github.com/vietkim027/thm/blob/main/README.md#download-intel-rapid-storage-technology-rst
 
 Method 2: AnhdvBoot<br>
