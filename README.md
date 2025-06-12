@@ -39,7 +39,7 @@ https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstati
 * For Windows XP, Vista, server 2003-2008: `https://www.3dpchip.com/new/3DP_Net_v1703.exe`<br>
 
 # Download Intel Rapid Storage Technology (RST)<br>
-**Fixed Error: Windows can't be installed on drive 0 partition 1<**br>
+**Fixed Error: Windows can't be installed on drive 0 partition 1**<br>
 Gen 12-15<br>
 `https://www.intel.com/content/www/us/en/download/849936/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-12th-to-15th-gen-platforms.html`<br>
 Direct URL:<br>
