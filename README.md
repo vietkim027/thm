@@ -5,7 +5,7 @@
 * `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
 * `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
 * US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
-* EDU Email: `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net`
+* Free EDU Email 2025: `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net` or `imail.edu.vn`
  
 # Download Old Windows 10, 11 ISO Direct from Microsoft
 `https://github.com/AveYo/MediaCreationTool.bat`<br>
