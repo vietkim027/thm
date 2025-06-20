@@ -6,7 +6,10 @@
 * `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
 * US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
 * Free EDU Email 2025: `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net` or `imail.edu.vn`
- 
+# Youtube Tips
+SEO thumbnail:
+https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
+
 # Download Old Windows 10, 11 ISO Direct from Microsoft
 `https://github.com/AveYo/MediaCreationTool.bat`<br>
 Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!<br>
