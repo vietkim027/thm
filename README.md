@@ -37,7 +37,9 @@ Check Bootable USB with MobaLiveCD:<br>
 `https://www.mobatek.net/labs.html`<br>
 
 # Direct Download VMware 17 Workstation Pro Free Offline (64-bit, 32-bit)</br>
-https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstation%20Pro&displayGroup=VMware%20Workstation%20Pro%2017.0%20for%20Windows&release=17.6.3&os=&servicePk=&language=EN&freeDownloads=true
+https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstation%20Pro&displayGroup=VMware%20Workstation%20Pro%2017.0%20for%20Windows&release=17.6.3&os=&servicePk=&language=EN&freeDownloads=true<br>
+Full Download List:<br>
+`https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true`
 
 # Network Drivers Offline install: 3DPNet (3DP Net detects ethernet card automatically)<br>
 * For Windows 7, 8, 10, server 2008: `https://www.3dpchip.com/new/3DP_Net_v2101.exe`<br>
