@@ -3,7 +3,7 @@
 ✔️**VEO 3 Unlimited Free with Google Cloud**
 <br>`https://console.cloud.google.com/vertex-ai/studio/media/generate;tab=video`<br>
 * Tips: Install new Browwer, signup new Google Account, Old > 18 Yrs
-* Country: United States
+* Country: United States<br>
 ✔️**VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
 * `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
