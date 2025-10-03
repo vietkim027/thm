@@ -104,13 +104,6 @@ or
 `timedate.cpl` - Date and Time Settings<br>
 `sysdm.cpl` - System Properties<br>  
 
-# Goldwave V7.xx
-6VW2BWFSQ
-J5LQMV9FJ
-
-EXW2BWFSQ
-2DEFV3WKD
-
 KYW2BWFSQ
 JUHY29N4J<br>
 
