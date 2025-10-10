@@ -104,8 +104,5 @@ or
 `timedate.cpl` - Date and Time Settings<br>
 `sysdm.cpl` - System Properties<br>  
 
-KYW2BWFSQ
-JUHY29N4J<br>
-
 ***
-Newest Video Guide Details: https://youtube.com/@giapca
+Newest Video Guide Details: https://youtube.com/giapca
