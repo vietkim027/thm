@@ -12,6 +12,13 @@
 *  `https://docs.google.com/videos` - Unlimited VEO 3.1
 * US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
 * Free EDU Email 2025: `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net` or `imail.edu.vn`
+
+# ChatGPT Tips
+**ChatGPT $1 with Paypal**
+* Netherland IP: Urban VPN
+* Netherland Address: fakexy.com
+`https://chatgpt.com/?promo_campaign=team1dollar#team-pricing`
+
 # Youtube Tips
 SEO thumbnail:
 https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
