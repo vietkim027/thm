@@ -47,8 +47,7 @@ Add Non-secure Boot to USB:<br>
 Check Bootable USB with MobaLiveCD:<br>
 `https://www.mobatek.net/labs.html`<br>
 
-# Direct Download VMware 17 Workstation Pro Free Offline (64-bit, 32-bit)</br>
-https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Workstation%20Pro&displayGroup=VMware%20Workstation%20Pro%2017.0%20for%20Windows&release=17.6.3&os=&servicePk=&language=EN&freeDownloads=true<br>
+# Direct Download VMware 25H2 Workstation Pro Free Offline (64-bit, 32-bit)</br>
 Full Download List:<br>
 `https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true`
 
