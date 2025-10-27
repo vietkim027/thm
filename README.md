@@ -73,6 +73,12 @@ CD to downloaded SetupRST.exe file then CMD:<br>
 `SetupRST.exe -extractdrivers SetupRST_extracted`<br>
 Copy SetupRST_extracted to Root folder of ISO file
 
+# Windows defender remover<br>
+`https://github.com/ionuttbara/windows-defender-remover`
+- Remove Security, Antivirus Components 
+- Creating an ISO with Windows Defender and Services disabled
+- Remove Windows Defender Application Guard Policies
+
 # Office 365 Download and Install Word, Excel, PowerPoint only<br>
 * Office Deploy Tool: `https://www.microsoft.com/en-us/download/details.aspx?id=49117` , extract to get xml file then edit yourcustom.xml
 * Download Direct link: `https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img`<br>
