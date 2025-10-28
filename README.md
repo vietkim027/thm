@@ -26,7 +26,7 @@ https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
 # Download Old Windows 10, 11 ISO Direct from Microsoft
 `https://github.com/AveYo/MediaCreationTool.bat`<br>
 Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 25H2!<br>
-* Bypass Windows 11's account during installation, Shift + F10, type: OOBEBYPASSNRO
+* Bypass Windows 11's account during installation, Shift + F10, type: OOBE\BYPASSNRO
 
 # Create Bootable USB with both UEFI and Legacy
 Method 1: https://rufus.ie/
