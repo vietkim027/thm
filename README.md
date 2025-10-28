@@ -25,7 +25,7 @@ https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
 
 # Download Old Windows 10, 11 ISO Direct from Microsoft
 `https://github.com/AveYo/MediaCreationTool.bat`<br>
-Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!<br>
+Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 25H2!<br>
 * Bypass Windows 11's account during installation, Shift + F10, type: OOBEBYPASSNRO
 
 # Create Bootable USB with both UEFI and Legacy
@@ -46,6 +46,10 @@ Add Non-secure Boot to USB:<br>
 
 Check Bootable USB with MobaLiveCD:<br>
 `https://www.mobatek.net/labs.html`<br>
+
+Method 3: WinNTSetup v5.4.1<br>
+Homepage: `https://msfn.org/board/topic/149612-winntsetup-v541/?`<br>
+With WinNTSetup, you can add autounattend.xml to Disable Windows Defender in ISO file.
 
 # Direct Download VMware 25H2 Workstation Pro Free Offline (64-bit, 32-bit)</br>
 Full Download List:<br>
