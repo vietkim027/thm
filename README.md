@@ -23,6 +23,10 @@
 SEO thumbnail:
 https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
 
+# Sora 2 Tips
+Sora 2 No Watermark Free:
+https://reel.money/tools/remove-sora-watermark
+
 # Download Old Windows 10, 11 ISO Direct from Microsoft
 `https://github.com/AveYo/MediaCreationTool.bat`<br>
 Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 25H2!<br>
