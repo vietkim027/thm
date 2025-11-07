@@ -11,7 +11,7 @@
 * `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
 *  `https://docs.google.com/videos` - Unlimited VEO 3.1
 * US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
-* Free EDU Email 2025: `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net` or `imail.edu.vn`
+* Free EDU Email 2025: `etempmail.com` (US .edu email) or `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net` or `imail.edu.vn`
 
 # ChatGPT Tips
 **ChatGPT $1 with Paypal**
