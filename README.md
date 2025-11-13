@@ -3,14 +3,14 @@
 ✔️**VEO 3 Unlimited Free with Google Cloud**
 <br>`https://console.cloud.google.com/vertex-ai/studio/media/generate;tab=video`<br>
 * Tips: Install new Browwer, signup new Google Account, Old > 18 Yrs
-* Country: United States<br>
+* Country: Canada, United States<br>
 
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
 * `https://one.google.com/ai-student?g1_landing_page=75` - Gemini Pro 12 Months Free with 2 TB Google One
 * `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
 *  `https://docs.google.com/videos` - Unlimited VEO 3.1
-* US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
+* Canada, US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
 * Sheer ID Bot: `t.me/sheeridverifier_channel` Working 100%
 * Free EDU Email 2025: `etempmail.com` (US .edu email) or `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net` or `imail.edu.vn`
 
@@ -18,6 +18,12 @@
 **ChatGPT $1 with Paypal**
 * Netherland IP: Urban VPN
 * Netherland Address: fakexy.com
+`https://chatgpt.com/?promo_campaign=team1dollar#team-pricing`
+
+**ChatGPT 5.1 Plus Free with 999 Users**
+* Email domain: https://youtu.be/ZQkkbd1x8A0?si=cddJ_DtabdFMXc8b 
+* Japan IP first, Thailand IP (at the bottom right corner) after.
+* Thailand Address: fakexy.com
 `https://chatgpt.com/?promo_campaign=team1dollar#team-pricing`
 
 # Youtube Tips
