@@ -24,7 +24,6 @@
 * Email domain: https://youtu.be/ZQkkbd1x8A0?si=cddJ_DtabdFMXc8b 
 * Japan IP first, Thailand IP (at the bottom right corner) after.
 * Thailand Address: fakexy.com
-`https://chatgpt.com/?promo_campaign=team1dollar#team-pricing`
 
 # Youtube Tips
 SEO thumbnail:
