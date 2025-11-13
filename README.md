@@ -7,8 +7,7 @@
 
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
-* `https://one.google.com/explore-plan/ai-premium-student` - VEO 3 15 Months Free
-* `https://one.google.com/ai-student?g1_landing_page=75` - Gemini Pro 12 Months Free
+* `https://one.google.com/ai-student?g1_landing_page=75` - Gemini Pro 12 Months Free with 2 TB Google One
 * `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
 *  `https://docs.google.com/videos` - Unlimited VEO 3.1
 * US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
