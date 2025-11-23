@@ -33,8 +33,8 @@ https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
 Sora 2 No Watermark Free:
 https://reel.money/tools/remove-sora-watermark
 
-# Sora 2 Tips
-Change Outlook Password:
+# Microsoft Outlook Tips
+Change Outlook (Hotmail, Live) Password:
 https://account.live.com/password/Change?mkt=en-US&refd=account.microsoft.com&refp=security
 
 # Download Old Windows 10, 11 ISO Direct from Microsoft
