@@ -5,6 +5,8 @@
 * Tips: Install new Browwer, signup new Google Account, Old > 18 Yrs
 * Country: Canada, United States<br>
 * Cancel Payments: `https://myaccount.google.com/subscriptions`
+* Payment Methods: `https://payments.google.com/gp/w/home/paymentmethods`
+* Google Account Location/Country/Region: `https://payments.google.com/gp/w/home/settings`
 
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
