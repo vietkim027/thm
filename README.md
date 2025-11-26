@@ -4,6 +4,7 @@
 <br>`https://console.cloud.google.com/vertex-ai/studio/media/generate;tab=video`<br>
 * Tips: Install new Browwer, signup new Google Account, Old > 18 Yrs
 * Country: Canada, United States<br>
+* Cancel Payments: `https://myaccount.google.com/subscriptions`
 
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
