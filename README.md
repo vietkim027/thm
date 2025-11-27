@@ -36,6 +36,14 @@ https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
 Sora 2 No Watermark Free:
 https://reel.money/tools/remove-sora-watermark
 
+# SMSPool.net
+It gives you real SIM numbers to bypass OTPs on sites like ChatGPT, Discord, Steam, and Tinder<br>
+✅ Super Cheap: Texts start at just $0.02. <br>
+✅ Reliable: Non-VoIP numbers (so they don't get blocked). <br>
+✅ Risk-Free: You get an automatic refund if the code doesn't arrive<br>
+👉 Try it out here: https://smspool.net/?r=8XERhIGhbl<br>
+`https://smspool.net/?r=8XERhIGhbl`
+
 # Microsoft Outlook Tips
 Change Outlook (Hotmail, Live) Password:
 https://account.live.com/password/Change?mkt=en-US&refd=account.microsoft.com&refp=security
