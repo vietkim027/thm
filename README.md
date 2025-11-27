@@ -17,7 +17,7 @@
 * Sheer ID Bot: `t.me/sheeridverifier_channel` Working 100%
 * Free EDU Email 2025: `etempmail.com` (US .edu email) or `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net` or `imail.edu.vn`
 
-# ChatGPT Tips
+# Free ChatGPT Plus / Pro / Go Tips
 **ChatGPT $1 with Paypal**
 * Netherland IP: Urban VPN
 * Netherland Address: fakexy.com
@@ -27,6 +27,12 @@
 * Email domain: https://youtu.be/ZQkkbd1x8A0?si=cddJ_DtabdFMXc8b 
 * Japan IP first, Thailand IP (at the bottom right corner) after.
 * Thailand Address: fakexy.com
+
+**Payslip Generate Online**
+* https://paycal.com.au/payslip-generator/
+* https://hrengage.ai/payslip-generator
+* https://www.zoho.com/in/payroll/free-payslip-generator/
+* https://www.template.net/ai/chat?productId=448694
 
 # Youtube Tips
 SEO thumbnail:
