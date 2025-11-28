@@ -18,6 +18,10 @@
 * Free EDU Email 2025: `etempmail.com` (US .edu email) or `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net` or `imail.edu.vn`
 
 # Free ChatGPT Plus / Pro / Go Tips
+Important: 
+1) Clear Cache
+2) Incognito (Private) window<br>
+
 **ChatGPT $1 with Paypal**
 * Netherland IP: Urban VPN
 * Netherland Address: fakexy.com
