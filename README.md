@@ -17,6 +17,7 @@
 * Sheer ID Bot: `t.me/sheeridverifier_channel` Working 100%
 * Free EDU Email 2025: `etempmail.com` (US .edu email) or `eTempMail.com` or `tempmail.id.vn` or `10minutesemail.net` or `imail.edu.vn`
 * Google Cloud billing error: Action unsuccessful - This action couldn't be completed. [OR_BACR2_44]. Fixed: Your card must have at least $10.
+* Purchase Error: Play Country matches. Fixed: Purchase on your Mobile & Leave group on `https://myaccount.google.com/people-and-sharing`
 
 # Free ChatGPT Plus / Pro / Go Tips
 Important: 
