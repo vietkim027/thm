@@ -4,7 +4,10 @@
 <br>`https://console.cloud.google.com/vertex-ai/studio/media/generate;tab=video`<br>
 * Tips: Install new Browwer, signup new Google Account, Old > 18 Yrs
 * Country: Canada, United States<br>
-* Cancel Payments: `https://myaccount.google.com/subscriptions` or `https://play.google.com/store/paymentmethods`
+* Cancel Payments:
+* `https://myaccount.google.com/subscriptions`
+* `https://play.google.com/store/paymentmethods`
+* `https://play.google.com/store/account/subscriptions`
 * Payment Methods: `https://payments.google.com/gp/w/home/paymentmethods`
 * Google Account Location/Country/Region: `https://payments.google.com/gp/w/home/settings`
 
