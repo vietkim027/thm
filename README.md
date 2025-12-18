@@ -44,8 +44,10 @@ Important:
 * https://www.template.net/ai/chat?productId=448694
 
 # Youtube Tips
-SEO thumbnail:
+* SEO thumbnail:
 https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
+* Cancel YouTube Membership
+https://www.youtube.com/paid_memberships
 
 # Sora 2 Tips
 Sora 2 No Watermark Free:
