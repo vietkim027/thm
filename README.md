@@ -27,8 +27,9 @@ Important:
 1) Clear Cache
 2) Incognito (Private) window<br>
 
-**K12-Teacher**
-`https://chatgpt.com/plans/k12-teachers/`
+**K12-Teacher 22-Dec-2025**
+* Location: US
+* Plan: `https://chatgpt.com/plans/k12-teachers/`
 
 **ChatGPT $1 with Paypal**
 * Netherland IP: Urban VPN
