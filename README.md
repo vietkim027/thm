@@ -22,10 +22,13 @@
 * Google Cloud billing error: Action unsuccessful - This action couldn't be completed. [OR_BACR2_44]. Fixed: Your card must have at least $10.
 * Purchase Error: Play Country matches. Fixed: Purchase on your Mobile & Leave group on `https://myaccount.google.com/people-and-sharing`
 
-# Free ChatGPT Plus / Pro / Go Tips
+# Free ChatGPT Plus / Pro / Go / K12-Teacher Tips
 Important: 
 1) Clear Cache
 2) Incognito (Private) window<br>
+
+**K12-Teacher**
+`https://chatgpt.com/plans/k12-teachers/`
 
 **ChatGPT $1 with Paypal**
 * Netherland IP: Urban VPN
