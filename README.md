@@ -30,6 +30,7 @@ Important:
 **K12-Teacher 22-Dec-2025**
 * Location: US
 * Plan: `https://chatgpt.com/plans/k12-teachers/`
+* Verify: @SheerID_VIP_Bot
 
 **ChatGPT $1 with Paypal**
 * Netherland IP: Urban VPN
