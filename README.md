@@ -26,6 +26,7 @@
 Important: 
 1) Clear Cache
 2) Incognito (Private) window<br>
+3) Hotmail, don't need Gmail
 
 **K12-Teacher 22-Dec-2025**
 * Location: US
