@@ -28,12 +28,13 @@ Important:
 2) Incognito (Private) window<br>
 3) Hotmail, don't need Gmail
 
-**K12-Teacher 22-Dec-2025**
+**K12-Teacher 25-Dec-2025**
 * Location: US
 Tip: Use RDP from Google<br>
 `https://www.skills.google/focuses/104659?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=64444403`
 * Plan: `https://chatgpt.com/plans/k12-teachers/`
-* Verify: @SheerID_VIP_Bot or @sheeridvn_bot
+* Verify: https://t.me/sheeridvn_bot?start=invite_5801955911
+<br>Or @SheerID_VIP_Bot or @sheeridvn_bot
 
 **ChatGPT $1 with Paypal**
 * Netherland IP: Urban VPN
