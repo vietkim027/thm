@@ -10,7 +10,8 @@
 * `https://play.google.com/store/account/subscriptions`
 * Payment Methods: `https://payments.google.com/gp/w/home/paymentmethods`
 * Google Account Location/Country/Region: `https://payments.google.com/gp/w/home/settings`
-
+* Google Family Sharing: https://myaccount.google.com/family
+  
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
 * `https://one.google.com/ai-student?g1_landing_page=75` - Gemini Pro 12 Months Free with 2 TB Google One
