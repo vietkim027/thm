@@ -25,9 +25,10 @@
 
 # Free ChatGPT Plus / Pro / Go / K12-Teacher Tips
 Important: 
-1) Clear Cache
-2) Incognito (Private) window<br>
-3) Hotmail, don't need Gmail
+1) Kaspersky Premium with Unlimited VPN: <br>https://www.kaspersky.com/downloads/premium-free-trial-2
+2) Clear Cache
+3) Incognito (Private) window<br>
+4) Hotmail, don't need Gmail
 
 **K12-Teacher 25-Dec-2025**
 * Location: US
