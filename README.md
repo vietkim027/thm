@@ -25,7 +25,7 @@
 
 # Free ChatGPT Plus / Pro / Go / K12-Teacher Tips
 Important: 
-1) Kaspersky Premium with Unlimited VPN: <br>https://www.kaspersky.com/downloads/premium-free-trial-2<br>Free 10 Proxy daily: https://webshare.io<br>
+1) VPN: Kaspersky Premium with Unlimited VPN: <br>https://www.kaspersky.com/downloads/premium-free-trial-2<br>Free 10 Proxy daily: https://webshare.io<br>Or Tuxler VPN (Residential)
 2) Clear Cache
 3) Incognito (Private) window<br>
 4) Hotmail, don't need Gmail
