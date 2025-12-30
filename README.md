@@ -1,4 +1,8 @@
 # Google Gemini VEO 3 Free Tips
+✔️**Google AI Pro 120 days Free**<br>
+https://g.co/g1referral/UUSLMZDH<br>
+`g.co/g1referral/UUSLMZDH`<br>
+
 **VEO 3 Prompts Update daily: https://prompt-master-ai.blogspot.com**<br>
 ✔️**VEO 3 Unlimited Free with Google Cloud**
 <br>`https://console.cloud.google.com/vertex-ai/studio/media/generate;tab=video`<br>
