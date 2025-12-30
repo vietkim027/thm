@@ -2,6 +2,7 @@
 ✔️**Google AI Pro 120 days Free**<br>
 https://g.co/g1referral/UUSLMZDH<br>
 `g.co/g1referral/UUSLMZDH`<br>
+✅Free 2 TB Google One, Gemini, VEO 3, Nano Banana Pro<br>
 
 **VEO 3 Prompts Update daily: https://prompt-master-ai.blogspot.com**<br>
 ✔️**VEO 3 Unlimited Free with Google Cloud**
