@@ -49,10 +49,15 @@ Tip: Use RDP from Google<br>
 * Netherland Address: fakexy.com
 `https://chatgpt.com/?promo_campaign=team1dollar#team-pricing`
 
-**ChatGPT 5.1 Plus Free with 999 Users**
+**ChatGPT 5.X Plus Free with 999 Users**
 * Email domain: https://youtu.be/ZQkkbd1x8A0?si=cddJ_DtabdFMXc8b 
 * Japan IP first, Thailand IP (at the bottom right corner) after.
 * Thailand Address: fakexy.com
+
+**ChatGPT Plus 5.X: veterans verify tool🎖️ Military**
+[veterans-verify-tool	🎖️ Military
+](https://github.com/ThanhNguyxn/SheerID-Verification-Tool)<br>
+`https://github.com/ThanhNguyxn/SheerID-Verification-Tool`<br>
 
 **Payslip Generate Online**
 * https://paycal.com.au/payslip-generator/
