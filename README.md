@@ -1,6 +1,9 @@
 # Google Gemini 3 Pro + VEO 3 Free Tips
-✔️**Working 08-Jan-2026:**<br>
-https://t.me/SheerID_VIP_Bot?start=ref_REF015908<br>
+✔️**Gemini Pro + 2 TB Google One Free**
+* URL: https://gemini.google/students<br>
+* Bot: https://t.me/SheerID_VIP_Bot?start=ref_REF015908<br>
+* Working 08-Jan-2026<br>
+
 ✔️**Google AI Pro 120 days Free**<br>
 https://g.co/g1referral/UUSLMZDH<br>
 `g.co/g1referral/UUSLMZDH`<br>
