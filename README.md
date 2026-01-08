@@ -1,4 +1,6 @@
-# Google Gemini VEO 3 Free Tips
+# Google Gemini 3 Pro + VEO 3 Free Tips
+✔️**Working 08-Jan-2026:**<br>
+https://t.me/SheerID_VIP_Bot?start=ref_REF015908<br>
 ✔️**Google AI Pro 120 days Free**<br>
 https://g.co/g1referral/UUSLMZDH<br>
 `g.co/g1referral/UUSLMZDH`<br>
