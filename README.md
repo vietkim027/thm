@@ -52,7 +52,7 @@ Tip: Use RDP from Google<br>
 <br>Or @SheerID_VIP_Bot or @sheeridvn_bot
 
 **ChatGPT $1 with Paypal**
-* Netherland IP: Urban VPN
+* Netherland IP: BrowSEC VPN or Kaspersky VPN
 * Netherland Address: fakexy.com
 `https://chatgpt.com/?promo_campaign=team1dollar#team-pricing`
 
