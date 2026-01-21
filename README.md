@@ -90,12 +90,6 @@ It gives you real SIM numbers to bypass OTPs on sites like ChatGPT, Discord, Ste
 👉 Try it out here: https://smspool.net/?r=8XERhIGhbl<br>
 `https://smspool.net/?r=8XERhIGhbl`
 
-# SmsPva.com
-Stop giving out your personal number! 🔒 Use SMSPVA to get instant SMS verifications for any app while keeping your privacy safe.<br>
-✅ 60+ countries ✅ Instant codes ✅ Starting at $0.05<br>
-👇 Get your virtual number now! https://smspva.com/?ref=1176616<br>
-`https://smspva.com/?ref=1176616`
-
 # Microsoft Outlook Tips
 Change Outlook (Hotmail, Live) Password:
 https://account.live.com/password/Change?mkt=en-US&refd=account.microsoft.com&refp=security
