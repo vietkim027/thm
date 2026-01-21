@@ -32,7 +32,7 @@ https://g.co/g1referral/UUSLMZDH<br>
 *  `https://docs.google.com/videos` - Unlimited VEO 3.1
 * Canada, US, UK, Netherland, Germany ... IP: Urban VPN or CyberGhost VPN
 * Sheer ID Bot: `t.me/sheeridverifier_channel` Working 100%
-* Free EDU Email 2026:
+* Free EDU Email 2026:<br>
   `tempumail.com` <br>
   `etempmail.com` (US .edu email)<br>
   `eTempMail.com`<br>
