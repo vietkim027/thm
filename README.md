@@ -24,6 +24,7 @@ https://g.co/g1referral/UUSLMZDH<br>
 * Google Account Location/Country/Region: `https://payments.google.com/gp/w/home/settings`
 * Cancel YouTube Membership: `https://www.youtube.com/paid_memberships`
 * Google Family Sharing: https://myaccount.google.com/family
+* Google Pay wallet: `https://wallet.google.com`
   
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
