@@ -6,6 +6,11 @@
 * Bot: https://t.me/SheerID_VIP_Bot?start=ref_REF015908<br>
 * Working 08-Jan-2026<br>
 
+# Microsoft: Unlimited Hotmail+6 TB OneDrive till 2031
+Tutorial: https://youtu.be/Q-a8BJZEZ88<br>
+Manage Microsoft Hotmail payments<br>
+https://account.microsoft.com/billing/payments?refd=account.microsoft.com
+
 ✔️**Google AI Pro 120 days Free**<br>
 https://g.co/g1referral/UUSLMZDH<br>
 `g.co/g1referral/UUSLMZDH`<br>
