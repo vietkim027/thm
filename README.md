@@ -37,7 +37,7 @@ https://g.co/g1referral/UUSLMZDH<br>
 * `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
 *  `https://docs.google.com/videos` - Unlimited VEO 3.1
 * Canada, US, UK, Netherland, Germany ... IP: Kaspersky VPN or CyberGhost VPN
-* Sheer ID Bot: `t.me/sheeridverifier_channel` Working 100%
+* Sheer ID Bot: `https://t.me/SheerID_VIP_Bot?start=ref_REF015908` Working 100%
 * Free EDU Email 2026:<br>
   `tempumail.com` <br>
   `etempmail.com` (US .edu email)<br>
@@ -55,13 +55,12 @@ Important:
 3) Incognito (Private) window<br>
 4) Hotmail, don't need Gmail
 
-**K12-Teacher 25-Dec-2025**
+**K12-Teacher 29-Jan-2026**
 * Location: US
 Tip: Use RDP from Google<br>
 `https://www.skills.google/focuses/104659?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=64444403`
 * Plan: `https://chatgpt.com/plans/k12-teachers/`
-* Verify: https://t.me/sheeridvn_bot?start=invite_5801955911
-<br>Or @SheerID_VIP_Bot or @sheeridvn_bot
+* Verify: https://t.me/SheerID_VIP_Bot?start=ref_REF015908
 
 **ChatGPT $1 with Paypal**
 * Netherland IP: BrowSEC VPN or Kaspersky VPN
