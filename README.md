@@ -4,7 +4,7 @@
 * URL: https://gemini.google/students<br>
 * or https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached
 * Bot: https://t.me/SheerID_VIP_Bot?start=ref_REF015908<br>
-* Working 29-Jan-2026<br>
+* Working 31-Jan-2026<br>
 
 # Microsoft: Unlimited Hotmail+6 TB OneDrive till 2031
 Tutorial: https://youtu.be/Q-a8BJZEZ88<br>
