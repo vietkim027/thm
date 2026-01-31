@@ -60,7 +60,8 @@ Important:
 Tip: Use RDP from Google<br>
 `https://www.skills.google/focuses/104659?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=64444403`
 * Plan: `https://chatgpt.com/plans/k12-teachers/`
-* Verify: https://t.me/SheerID_VIP_Bot?start=ref_REF015908
+* Verify: https://t.me/SheerID_VIP_Bot?start=ref_REF015908<br>
+  Or https://github.com/ThanhNguyxn/
 
 **ChatGPT $1 with Paypal**
 * Netherland IP: BrowSEC VPN or Kaspersky VPN
