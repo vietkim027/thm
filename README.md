@@ -80,6 +80,7 @@ Tip: Use RDP from Google<br>
 `https://github.com/ThanhNguyxn/SheerID-Verification-Tool`<br>
 
 **Payslip Generate Online**
+* https://www.sejda.com/pdf-editor then upload a Payslip to edit
 * https://paycal.com.au/payslip-generator/
 * https://hrengage.ai/payslip-generator
 * https://www.zoho.com/in/payroll/free-payslip-generator/
