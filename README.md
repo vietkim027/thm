@@ -5,7 +5,7 @@
 * or https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached
 * Bot: https://t.me/SheerID_VIP_Bot?start=ref_REF015908<br>
 OR https://t.me/sheeridvn_bot?start=invite_5801955911
-* Working 02-Feb-2026<br>
+* Working 22-Feb-2026<br>
 
 # Microsoft: Unlimited Hotmail+6 TB OneDrive till 2031
 Tutorial: https://youtu.be/Q-a8BJZEZ88<br>
@@ -42,6 +42,7 @@ https://g.co/g1referral/UUSLMZDH<br>
 * Free EDU Email 2026:<br>
   `tempumail.com` <br>
   `etempmail.com` (US .edu email)<br>
+  `tempumail.com/edu-mail-generator`<br>
   `eTempMail.com`<br>
    `tempmail.id.vn`<br>
    `10minutesemail.net`<br>
