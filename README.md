@@ -164,6 +164,9 @@ CD to downloaded SetupRST.exe file then CMD:<br>
 `SetupRST.exe -extractdrivers SetupRST_extracted`<br>
 Copy SetupRST_extracted to Root folder of ISO file
 
+# Download Intel Driver Support Assistant (RST)<br>
+`https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html`
+
 # Windows defender remover<br>
 `https://github.com/ionuttbara/windows-defender-remover`
 - Remove Security, Antivirus Components 
