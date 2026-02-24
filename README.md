@@ -46,7 +46,6 @@ https://g.co/g1referral/UUSLMZDH<br>
   `eTempMail.com`<br>
    `tempmail.id.vn`<br>
    `10minutesemail.net`<br>
-   `imail.edu.vn`<br>
 * Google Cloud billing error: Action unsuccessful - This action couldn't be completed. [OR_BACR2_44]. Fixed: Your card must have at least $10.
 * Purchase Error: Play Country matches. Fixed: Purchase on your Mobile & Leave group on `https://myaccount.google.com/people-and-sharing`
 
