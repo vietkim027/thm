@@ -211,7 +211,11 @@ or
 `appwiz.cpl` - Uninstall or Change a program - Control Panel\Programs\Programs and Features<br>
 `ncpa.cpl` - Network Connections - Control Panel\Network and Internet\Network Connections<br>
 `timedate.cpl` - Date and Time Settings<br>
-`sysdm.cpl` - System Properties<br>  
+`sysdm.cpl` - System Properties<br>
+
+# Google Drive Tips
+Download Google Drive PC (Direct link)<br>
+`https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe`
 
 ***
 Newest Video Guide Details: https://youtube.com/giapca
