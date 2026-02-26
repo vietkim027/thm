@@ -46,8 +46,10 @@ https://g.co/g1referral/UUSLMZDH<br>
   `eTempMail.com`<br>
    `tempmail.id.vn`<br>
    `10minutesemail.net`<br>
-* Google Cloud billing error: Action unsuccessful - This action couldn't be completed. [OR_BACR2_44]. Fixed: Your card must have at least $10.
-* Purchase Error: Play Country matches. Fixed: Purchase on your Mobile & Leave group on `https://myaccount.google.com/people-and-sharing`
+* Google Cloud billing error: Action unsuccessful - This action couldn't be completed. [OR_BACR2_44].<br>
+Fixed: Your card must have at least $10.
+* Purchase Error: Play Country matches.<br>
+Fixed: Purchase on your Mobile & Leave group on `https://myaccount.google.com/people-and-sharing`
 
 # Free ChatGPT Plus / Pro / Go / K12-Teacher Tips
 Important: 
