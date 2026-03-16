@@ -10,7 +10,9 @@ OR https://t.me/sheeridvn_bot?start=invite_5801955911
 # Microsoft: Unlimited Hotmail+6 TB OneDrive till 2031
 Tutorial: https://youtu.be/Q-a8BJZEZ88<br>
 Manage Microsoft Hotmail payments<br>
-https://account.microsoft.com/billing/payments?refd=account.microsoft.com
+https://account.microsoft.com/billing/payments?refd=account.microsoft.com<br>
+* Cancel Microsoft Office 365<br>
+`https://account.microsoft.com/services/microsoft365/cancel?fref=billing-cancel`
 
 ✔️**Google AI Pro 120 days Free**<br>
 https://g.co/g1referral/UUSLMZDH<br>
