@@ -77,11 +77,6 @@ Tip: Use RDP from Google<br>
 * Japan IP first, Thailand IP (at the bottom right corner) after.
 * Thailand Address: fakexy.com
 
-**ChatGPT Plus 5.X: veterans verify tool🎖️ Military**
-[veterans-verify-tool	🎖️ Military
-](https://github.com/ThanhNguyxn/SheerID-Verification-Tool)<br>
-`https://github.com/ThanhNguyxn/SheerID-Verification-Tool`<br>
-
 **Payslip Generate Online**
 * https://www.sejda.com/pdf-editor then upload a Payslip to edit
 * https://paycal.com.au/payslip-generator/
@@ -110,6 +105,11 @@ It gives you real SIM numbers to bypass OTPs on sites like ChatGPT, Discord, Ste
 # Microsoft Outlook Tips
 Change Outlook (Hotmail, Live) Password:
 https://account.live.com/password/Change?mkt=en-US&refd=account.microsoft.com&refp=security
+
+# The best Free VPN: SoftEther VPN
+Fake your PC IP address with US, UK, IN, KR, JP ...<br>
+Download SoftEther VPN Client + VPN Gate Client Plugin: https://www.vpngate.net/en/download.aspx<br>
+`https://www.vpngate.net/en/download.aspx`
 
 # Download Old Windows 10, 11 ISO Direct from Microsoft
 `https://github.com/AveYo/MediaCreationTool.bat`<br>
