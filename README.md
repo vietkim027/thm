@@ -107,7 +107,7 @@ Change Outlook (Hotmail, Live) Password:
 https://account.live.com/password/Change?mkt=en-US&refd=account.microsoft.com&refp=security
 
 # The best Free VPN: SoftEther VPN
-Fake your PC IP address with US, UK, IN, KR, JP ...<br>
+Change your internet IP address to US, UK, IN, KR, JP ...<br>
 Download SoftEther VPN Client + VPN Gate Client Plugin: https://www.vpngate.net/en/download.aspx<br>
 `https://www.vpngate.net/en/download.aspx`
 
