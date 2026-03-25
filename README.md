@@ -91,7 +91,7 @@ https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
 https://www.youtube.com/paid_memberships
 * YouTube Premium Lifetime (No Ads):
 https://www.youtube.com/watch?v=q4KhRMUgclY ► https://www.yout-ube.com/watch?v=q4KhRMUgclY<br>
-- between yout-ube
+`-` between youtube
   
 
 # Sora 2 Tips
