@@ -27,7 +27,7 @@ https://g.co/g1referral/UUSLMZDH<br>
 <br>`https://console.cloud.google.com/vertex-ai/studio/media/generate;tab=video`<br>
 * Tips: Install new Browwer, signup new Google Account, Old > 18 Yrs
 * Country: Canada, United States<br>
-✔️**Cancel Payments:<br>**
+✔️**Cancel, Close Payments Profile:<br>**
 * `https://myaccount.google.com/subscriptions`
 * `https://play.google.com/store/paymentmethods`
 * `https://play.google.com/store/account/subscriptions`
@@ -36,6 +36,7 @@ https://g.co/g1referral/UUSLMZDH<br>
 * Cancel YouTube Membership: `https://www.youtube.com/paid_memberships`
 * Google Family Sharing: https://myaccount.google.com/family
 * Google Pay wallet: `https://wallet.google.com`
+* Close Payments Profile: `https://payments.google.com/gp/w/home/settings`
   
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
