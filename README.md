@@ -37,6 +37,7 @@ https://g.co/g1referral/UUSLMZDH<br>
 * Google Family Sharing: https://myaccount.google.com/family
 * Google Pay wallet: `https://wallet.google.com`
 * Close Payments Profile: `https://payments.google.com/gp/w/home/settings`
+* Turn on 2FA: `https://myaccount.google.com/signinoptions/twosv`
   
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
