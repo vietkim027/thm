@@ -12,7 +12,7 @@ OR https://t.me/SheerID_VIP_Bot?start=ref_REF015908<br>
 OR https://t.me/sheeridvn_bot?start=invite_5801955911
 * Working 31-Mar-2026<br>
 
-# Free Bitcoin, USDT daily
+# How to get Access Token in ChatGPT (OpenAI)
 https://chatgpt.com/api/auth/session
 "accessToken":"eyJ...Abc123"<br>
 Start with eyJ..., end is before ,"authProvider" 
