@@ -13,7 +13,7 @@ OR https://t.me/sheeridvn_bot?start=invite_5801955911
 * Working 31-Mar-2026<br>
 
 # How to get Access Token in ChatGPT (OpenAI)
-https://chatgpt.com/api/auth/session
+https://chatgpt.com/api/auth/session<br>
 "accessToken":"eyJ...Abc123"<br>
 Start with eyJ..., end is before ,"authProvider" 
 
