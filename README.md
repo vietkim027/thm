@@ -96,6 +96,11 @@ Tip: Use RDP from Google<br>
 * https://www.zoho.com/in/payroll/free-payslip-generator/
 * https://www.template.net/ai/chat?productId=448694
 
+# Temp GMAIL
+`https://smailpro.com/temporary-email`<br>
+`https://www.mailticking.com`<br>
+`https://www.emailnator.com`
+
 # Youtube Tips
 * SEO thumbnail:
 https://prmptly.xyz/prmpt/youtube-thumbnail-improver-AG9IKzCKbQi<br>
