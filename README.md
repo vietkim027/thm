@@ -57,6 +57,8 @@ https://g.co/g1referral/UUSLMZDH<br>
   `tempumail.com` <br>
   `etempmail.com` (US .edu email)<br>
   `tempumail.com/edu-mail-generator`<br>
+  `https://getedumail.com`<br>
+  `https://www.emailnator.com/` (Gmail Temp)<br>
   `eTempMail.com`<br>
    `tempmail.id.vn`<br>
    `10minutesemail.net`<br>
@@ -123,9 +125,11 @@ It gives you real SIM numbers to bypass OTPs on sites like ChatGPT, Discord, Ste
 👉 Try it out here: https://smspool.net/?r=8XERhIGhbl<br>
 `https://smspool.net/?r=8XERhIGhbl`
 
-# Microsoft Outlook Tips
-Change Outlook (Hotmail, Live) Password:
-https://account.live.com/password/Change?mkt=en-US&refd=account.microsoft.com&refp=security
+# Microsoft Office 365 Tips
+* Change Outlook (Hotmail, Live) Password:
+https://account.live.com/password/Change?mkt=en-US&refd=account.microsoft.com&refp=security<br>
+* Microsoft Office 365 with 5 TB
+https://developer.microsoft.com/en-us/microsoft-365/dev-program
 
 # The best Free VPN: SoftEther VPN
 Change your internet IP address to US, UK, IN, KR, JP ...<br>
