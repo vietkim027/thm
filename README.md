@@ -10,7 +10,7 @@ Or https://t.me/PixVerifyBot?start=ref_5801955911<br>
 OR https://t.me/gptnocard_bot?start=inv_YPMh8vxk37E<br>
 OR https://t.me/SheerID_VIP_Bot?start=ref_REF015908<br>
 OR https://t.me/sheeridvn_bot?start=invite_5801955911
-* Working 31-Mar-2026<br>
+* Working 11-May-2026<br>
 
 # How to get Access Token in ChatGPT (OpenAI)
 https://chatgpt.com/api/auth/session<br>
