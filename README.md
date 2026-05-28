@@ -36,6 +36,11 @@ https://g.co/g1referral/UUSLMZDH<br>
 * Country: Canada, United States<br>
 ✔️**Cancel, Close Payments Profile:<br>**
 * `https://myaccount.google.com/subscriptions`
+Step to Close Google Payment Profile
+1. You must Cancel Subscription first
+2. In Payment Methods, Remove
+3. Close Payment
+  
 * `https://play.google.com/store/paymentmethods`
 * `https://play.google.com/store/account/subscriptions`
 * Payment Methods: `https://payments.google.com/gp/w/home/paymentmethods`
