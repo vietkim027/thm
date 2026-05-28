@@ -35,7 +35,7 @@ https://g.co/g1referral/UUSLMZDH<br>
 * Tips: Install new Browwer, signup new Google Account, Old > 18 Yrs
 * Country: Canada, United States<br>
 ✔️**Cancel, Close Payments Profile:<br>**
-* `https://myaccount.google.com/subscriptions`
+* `https://myaccount.google.com/subscriptions`<br>
 Step to Close Google Payment Profile
 1. You must Cancel Subscription first
 2. In Payment Methods, Remove
