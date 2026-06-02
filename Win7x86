@@ -1,0 +1,7 @@
+Fix Windows 7 Ultimate Update Error 80072EFE
+1. Download Firefox
+2. Download Hotfix:
+Fix 80072EFE: KB3138612
+https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows6.1-kb3138612-x86_6e90531daffc13bc4e92ecea890e501e807c621f.msu
+
+Fix 80092004: KB4490628
