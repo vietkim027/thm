@@ -17,6 +17,10 @@ https://chatgpt.com/api/auth/session<br>
 "accessToken":"eyJ...Abc123"<br>
 Start with eyJ..., end is before ,"authProvider" 
 
+# How to login without 2FA Code 
+https://2fa-c0de.blogspot.com/
+`https://2fa-c0de.blogspot.com/`
+
 # Microsoft: Unlimited Hotmail+6 TB OneDrive till 2031
 Tutorial: https://youtu.be/Q-a8BJZEZ88<br>
 Manage Microsoft Hotmail payments<br>
