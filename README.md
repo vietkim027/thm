@@ -50,7 +50,7 @@ Step to Close Google Payment Profile
 * Payment Methods: `https://payments.google.com/gp/w/home/paymentmethods`
 * Google Account Location/Country/Region: `https://payments.google.com/gp/w/home/settings`
 * Cancel YouTube Membership: `https://www.youtube.com/paid_memberships`
-* Google Family Sharing: https://myaccount.google.com/family
+* Google Family Sharing: `https://myaccount.google.com/family` or `https://g.co/YourFamily`
 * Google Pay wallet: `https://wallet.google.com`
 * Close Payments Profile: `https://payments.google.com/gp/w/home/settings`
 * Turn on 2FA: `https://myaccount.google.com/signinoptions/twosv`
