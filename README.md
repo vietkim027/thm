@@ -3,7 +3,6 @@ https://bit.ly/binance1k<br>
 * How to Send USDT, BTC, ETH ... in Binance: https://youtube.com/shorts/1ojwPk8Nlck?si=f6aakNn2pwO_PjvX
 * How to Buy USDT, BTC, ETH ... in Binance: https://youtube.com/shorts/qNNX-JjacTk?si=yAKXF1afvGgdlnpo
 * How to Transfer/Add Money to Binance: https://youtube.com/shorts/RCC4gZYdPkk?si=Jp_IQZYkapDpjlaa
-<br>
 
 # Google Gemini 3 Pro + VEO 3 Free Tips
 ✔️**Gemini Pro + 5 TB Google One Free**
