@@ -17,7 +17,7 @@ https://chatgpt.com/api/auth/session<br>
 "accessToken":"eyJ...Abc123"<br>
 Start with eyJ..., end is before ,"authProvider" 
 
-# How to login without 2FA Code 
+# How to login ChatGPT, Google ... without 2FA Code 
 https://2fa-c0de.blogspot.com/
 `https://2fa-c0de.blogspot.com/`
 
@@ -53,7 +53,9 @@ Step to Close Google Payment Profile
 * Google Family Sharing: `https://myaccount.google.com/family` or `https://g.co/YourFamily`
 * Google Pay wallet: `https://wallet.google.com`
 * Close Payments Profile: `https://payments.google.com/gp/w/home/settings`
-* Turn on 2FA: `https://myaccount.google.com/signinoptions/twosv`
+* Turn on 2FA: `https://myaccount.google.com/signinoptions/twosv`<br>
+Video guide How to Enable 2FA: https://youtu.be/zJROVxZQYJE?si=Iy1shLKHRld69yuN
+<br>`https://youtu.be/zJROVxZQYJE?si=Iy1shLKHRld69yuN`
   
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
