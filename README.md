@@ -3,7 +3,7 @@ https://bit.ly/binance1k<br>
 Video guide How to charge money to Binance: https://www.tiktok.com/@vniai/video/7631101375635639572
 <br>
 # Google Gemini 3 Pro + VEO 3 Free Tips
-✔️**Gemini Pro + 2 TB Google One Free**
+✔️**Gemini Pro + 5 TB Google One Free**
 * https://myaccount.google.com/personal-info then change Birthday to 2002, Home and Language to US.<br>
 * URL: https://gemini.google/students<br>
 OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached
