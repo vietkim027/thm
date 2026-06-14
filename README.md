@@ -152,8 +152,6 @@ Download SoftEther VPN Client + VPN Gate Client Plugin: https://www.vpngate.net/
 # Download Old Windows 10, 11 ISO Direct from Microsoft
 `https://github.com/AveYo/MediaCreationTool.bat`<br>
 Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 25H2!<br>
-Windows 10 20H1 Official:<br>
-`https://www.fshare.vn/file/3Q9SWUCUXWIJ`<r>
 * Bypass Windows 11's account during installation, Shift + F10, type: OOBE\BYPASSNRO
 
 # Create Bootable USB with both UEFI and Legacy
