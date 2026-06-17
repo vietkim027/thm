@@ -82,9 +82,15 @@ Fixed: Your card must have at least $10.
 * Purchase Error: Play Country matches.<br>
 Fixed: Purchase on your Mobile & Leave group on `https://myaccount.google.com/people-and-sharing`
 
+# Free VPN/Proxy to hide your IP address
+1) VPN: Kaspersky Premium with Unlimited VPN: <br>https://www.kaspersky.com/downloads/premium-free-trial-2<br>
+2) Urban VPN : https://www.urban-vpn.com/
+3) tuxlerVPN - Residential & High-Performance VPN: https://www.tuxlervpn.com
+4) Free 10 Proxy daily: https://webshare.io<br>
+
 # Free ChatGPT Plus / Pro / Go / K12-Teacher Tips
 Important: 
-1) VPN: Kaspersky Premium with Unlimited VPN: <br>https://www.kaspersky.com/downloads/premium-free-trial-2<br>Free 10 Proxy daily: https://webshare.io<br>Or Tuxler VPN (Residential)
+1) Hide your IP
 2) Clear Cache
 3) Incognito (Private) window<br>
 4) Hotmail, don't need Gmail
