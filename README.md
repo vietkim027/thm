@@ -191,6 +191,10 @@ The software is completely free for personal, educational, and commercial use!<b
 Full Download List:<br>
 `https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true`
 
+# Direct Download Ubuntu</br>
+https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso<br>
+`https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso`
+
 # Network Drivers Offline install: 3DPNet (3DP Net detects ethernet card automatically)<br>
 * For Windows 7, 8, 10, server 2008: `https://www.3dpchip.com/new/3DP_Net_v2101.exe`<br>
 * For Windows XP, Vista, server 2003-2008: `https://www.3dpchip.com/new/3DP_Net_v1703.exe`<br>
