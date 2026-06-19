@@ -186,7 +186,8 @@ Method 4: WinNTSetup v5.4.1<br>
 Homepage: `https://msfn.org/board/topic/149612-winntsetup-v541/?`<br>
 With WinNTSetup, you can add autounattend.xml to Disable Windows Defender in ISO file.
 
-# Direct Download VMware 25H2 Workstation Pro Free Offline (64-bit, 32-bit)</br>
+# Direct Download VMware 26H1 Workstation Pro Free Offline (64-bit, 32-bit)</br>
+The software is completely free for personal, educational, and commercial use!<br>
 Full Download List:<br>
 `https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true`
 
