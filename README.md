@@ -272,7 +272,7 @@ Download Google Drive PC (Direct link)<br>
 
 # Ubuntu Host SMBus controller bus not enabled
 Add these lines to .vmx file
-`bios.bootDelay = "50000"
+`bios.bootDelay = "50000"<br>
 cpuid.1.eax = "0000:0000:0000:0001:0000:0110:1010:0101"`
 
 ***
