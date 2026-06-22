@@ -270,5 +270,10 @@ Or<br>
 Download Google Drive PC (Direct link)<br>
 `https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe`
 
+# Ubuntu Host SMBus controller bus not enabled
+Add these lines to .vmx file
+`bios.bootDelay = "50000"
+cpuid.1.eax = "0000:0000:0000:0001:0000:0110:1010:0101"`
+
 ***
 Newest Video Guide Details: https://youtube.com/giapca
