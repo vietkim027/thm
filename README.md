@@ -278,5 +278,8 @@ Add these lines to .vmx file<br>
 # Kali Linux Download
 `https://kali.download/base-images/kali-2026.1/kali-linux-2026.1-installer-amd64.iso`
 
+# Linux Mint Download
+`https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`
+
 ***
 Newest Video Guide Details: https://youtube.com/giapca
