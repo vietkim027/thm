@@ -278,7 +278,10 @@ Add these lines to .vmx file<br>
 `cpuid.1.eax = "0000:0000:0000:0001:0000:0110:1010:0101"`
 
 # Kali Linux Download
-`https://kali.download/base-images/kali-2026.1/kali-linux-2026.1-installer-amd64.iso`
+`https://kali.download/base-images/kali-2026.1/kali-linux-2026.1-installer-amd64.iso`<br>
+How to install Kali Linux:<br>
+https://youtu.be/KZQHu-a8wYk?si=ZG04_FdCizmuqzU4<br>
+`https://youtu.be/KZQHu-a8wYk?si=ZG04_FdCizmuqzU4`
 
 # Linux Mint Download
 `https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`
