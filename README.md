@@ -259,6 +259,10 @@ Or<br>
 Or<br>
 `https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-iot-enterprise-ltsc`<br>
 
+# Download Tiktok, Facebook, Douyin, YouTube, Instagram ... Video without Watermark
+Way 1: `https://downloader.aishop.vn`
+Way 2: Use Telegram `https://t.me/Socialdownloadbyjacknguyen_bot`
+
 # Useful Windows Shortcut
 `control.exe desk.cpl,,0` - Desktop icon Settings - View "This PC" or "My computer" on Desktop<br>
 `control.exe inetcpl.cpl,,4` - Internet Properties: Connections TAB<br>
@@ -288,6 +292,8 @@ https://youtu.be/KZQHu-a8wYk?si=ZG04_FdCizmuqzU4<br>
 
 # Linux Mint Download
 `https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`
+Install Brave Browser:<br>
+`curl -fsS https://dl.brave.com/install.sh | sh`
 
 ***
 Newest Video Guide Details: https://youtube.com/giapca
