@@ -290,6 +290,10 @@ How to install Kali Linux:<br>
 https://youtu.be/KZQHu-a8wYk?si=ZG04_FdCizmuqzU4<br>
 `https://youtu.be/KZQHu-a8wYk?si=ZG04_FdCizmuqzU4`<br>
 ## Kali Linux Commands<br>
+* Install Chrome on Kali Linux<br>
+After login chrome.com, click download (.deb file) then install<br>
+`sudo apt install ./google-chrome-stable_current_amd64.deb`<br> 
+
 * Remote Windows from Kali Linux:<br>
 `sudo apt install rdesktop`<br>
 `rdesktop -f <windows_ip_address>`<br>
