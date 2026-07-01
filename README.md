@@ -290,10 +290,21 @@ How to install Kali Linux:<br>
 https://youtu.be/KZQHu-a8wYk?si=ZG04_FdCizmuqzU4<br>
 `https://youtu.be/KZQHu-a8wYk?si=ZG04_FdCizmuqzU4`<br>
 ## Kali Linux Commands<br>
-Remote Windows from Kali Linux:<br>
+* Remote Windows from Kali Linux:<br>
 `sudo apt install rdesktop`<br>
 `rdesktop -f <windows_ip_address>`<br>
-E.g: `rdesktop -f 10.1.0.60`
+E.g: `rdesktop -f 10.1.0.60`<br>
+* Install Printer<br>
+Step 1: Install and Enable CUPS<br>
+`sudo apt install cups`<br>
+`sudo systemctl enable cups`<br>
+`sudo systemctl start cups`<br>
+Step 2: Unzip driver file
+`tar -zxvf printerxyz.tar.gz` with .gz file, or `unzip printerxyz.zip` with .zip file<br>
+Step 3: Install printer
+Browse to above unzip folder then<br>
+`chmod +x install.sh`<br>
+`sudo ./install.sh`<br>
 
 # Linux Mint Download
 `https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`
