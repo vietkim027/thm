@@ -294,22 +294,26 @@ https://youtu.be/KZQHu-a8wYk?si=ZG04_FdCizmuqzU4<br>
 `sudo apt install rdesktop`<br>
 `rdesktop -f <windows_ip_address>`<br>
 E.g: `rdesktop -f 10.1.0.60`<br>
-* Install Printer<br>
-Step 1: Install and Enable CUPS<br>
+
+* Install Brave Browser on Kali Linux<br>
+`curl -fsS https://dl.brave.com/install.sh | sh`<br>
+
+* Install Printer on Kali Linux<br>
+** Step 1: Install and Enable CUPS<br>
 `sudo apt install cups`<br>
 `sudo systemctl enable cups`<br>
 `sudo systemctl start cups`<br>
-Step 2: Unzip driver file
+** Step 2: Unzip driver file
 `tar -zxvf printerxyz.tar.gz` with .gz file, or `unzip printerxyz.zip` with .zip file<br>
-Step 3: Install printer
+** Step 3: Install printer
 Browse to above unzip folder then<br>
 `chmod +x install.sh`<br>
 `sudo ./install.sh`<br>
 
-# Linux Mint Download
-`https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`
-Install Brave Browser:<br>
-`curl -fsS https://dl.brave.com/install.sh | sh`
+* Install Network Printer on Kali Linux<br>
+`sudo system-config-printer`<br>
+Then click to Add, select Network Printer > Forward
 
-***
+# Linux Mint Download
+`https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`**
 Newest Video Guide Details: https://youtube.com/giapca
