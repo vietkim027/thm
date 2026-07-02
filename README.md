@@ -330,13 +330,13 @@ Browse to above unzip folder then<br>
 `sudo system-config-printer`<br>
 Then click to Add, select Network Printer > Forward
 
-* Install ibus-Unikey to typing VietNamese on Kali Linux
-Step 1: Install ibus-Unikey<br>
+* Install ibus-Unikey to typing VietNamese on Kali Linux<br>
+** Step 1: Install ibus-Unikey<br>
 `sudo apt update && sudo apt install ibus-unikey`<br>
-Step 2: ibus-setup<br>
+** Step 2: ibus-setup<br>
 In Terminal, type: `ibus-setup`<br>
 Go to the Input Method tab, click Add, search for "Vietnamese", and select Unikey. Use Windows key + Space to toggle it on and off.<br>
-Note: Enable ibus Module<br>
+** Note: Enable ibus Module<br>
 `ibus export GTK_IM_MODULE=ibus`
 
 # Linux Mint Download
