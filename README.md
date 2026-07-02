@@ -340,5 +340,6 @@ Go to the Input Method tab, click Add, search for "Vietnamese", and select Unike
 `ibus export GTK_IM_MODULE=ibus`
 
 # Linux Mint Download
-`https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`**
-Newest Video Guide Details: https://youtube.com/giapca
+`https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`<br>
+<hr>
+** Newest Video Guide Details: https://youtube.com/giapca
