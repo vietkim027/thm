@@ -342,4 +342,4 @@ Go to the Input Method tab, click Add, search for "Vietnamese", and select Unike
 # Linux Mint Download
 `https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`<br>
 <hr>
-** Newest Video Guide Details: https://youtube.com/giapca
+** Newest Video Guide Details on VietTube AI: https://youtube.com/giapca
