@@ -314,6 +314,9 @@ Step 3: Open Anydesk, Click three dot on the right corner of Anydesk then select
 * Install Brave Browser on Kali Linux<br>
 `curl -fsS https://dl.brave.com/install.sh | sh`<br>
 
+* Install LibreOffice<br>
+`sudo apt install libreoffice`
+
 * Install Printer on Kali Linux<br>
 ** Step 1: Install and Enable CUPS<br>
 `sudo apt install cups`<br>
