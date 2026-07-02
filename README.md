@@ -304,6 +304,13 @@ Or, after sudo, use dpkg -i command:<br>
 `rdesktop -f <windows_ip_address>`<br>
 E.g: `rdesktop -f 10.1.0.60`<br>
 
+* Remote Kali Linux with AnyDesk<br>
+Step 1: Download Anydesk <br>
+`https://download.anydesk.com/linux/anydesk_8.0.4-1_amd64.deb`<br>
+Step 2: Install Anydesk<br>
+`dpkg -i anydesk_8.0.4-1_amd64.deb`<br>
+Step 3: Open Anydesk, Click three dot on the right corner of Anydesk then select "Set password", choose Profile is Full Access <br>
+
 * Install Brave Browser on Kali Linux<br>
 `curl -fsS https://dl.brave.com/install.sh | sh`<br>
 
