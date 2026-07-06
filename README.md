@@ -87,6 +87,7 @@ Fixed: Purchase on your Mobile & Leave group on `https://myaccount.google.com/pe
 2) Urban VPN : https://www.urban-vpn.com/
 3) tuxlerVPN - Residential & High-Performance VPN: https://www.tuxlervpn.com
 4) Free 10 Proxy daily: https://webshare.io<br>
+5) Advanced Proxy Rotator: `https://github.com/0xMubashar/Advanced-Proxy-Rotator`
 
 # Antidetect Browser
 Dolphin, Vision, CamouFox
@@ -136,7 +137,6 @@ https://www.youtube.com/paid_memberships
 https://www.youtube.com/watch?v=q4KhRMUgclY ► https://www.yout-ube.com/watch?v=q4KhRMUgclY<br>
 `-` between youtube
   
-
 # Sora 2 Tips
 Sora 2 No Watermark Free:
 https://reel.money/tools/remove-sora-watermark
