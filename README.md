@@ -278,6 +278,12 @@ Way 2: Use Telegram `https://t.me/Socialdownloadbyjacknguyen_bot`
 Download Google Drive PC (Direct link)<br>
 `https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe`
 
+# Windows True License vs Licence Checker: Check OS & App Legit or Crack
+* Windows True License: Can scan ~1000 PCs in Local Area Network<br>
+`https://lnkd.in/gQafEgjp`<br>
+* Licence Checker<br>
+`https://vietify.com/kiem-tra-phan-mem-crack`
+
 # Direct Download Ubuntu</br>
 https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso<br>
 `https://releases.ubuntu.com/26.04/ubuntu-26.04-desktop-amd64.iso`
