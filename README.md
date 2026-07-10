@@ -350,5 +350,13 @@ Go to the Input Method tab, click Add, search for "Vietnamese", and select Unike
 
 # Linux Mint Download
 `https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`<br>
+
+# Dual Boot Windows & Kali Linux or Ubuntu
+1) Download Kali Linux or Ubuntu image on its homepage<br>
+2) Use Rufus to create bootable USB (in FAT 32)<br>
+3) In Bios, change Secure Boot to Enabled<br>
+4) Turn off Bitlocker on Windows (C drive)<br>
+5) Plugin USB to install Kali Linux or Ubuntu
+
 <hr>
 ** Newest Video Guide Details on VietTube AI: https://youtube.com/giapca
