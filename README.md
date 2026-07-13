@@ -358,5 +358,10 @@ Go to the Input Method tab, click Add, search for "Vietnamese", and select Unike
 4) Turn off Bitlocker on Windows (C drive)<br>
 5) Plugin USB to install Kali Linux or Ubuntu
 
+# Download BlueStacks Offline installer
+`https://support.bluestacks.com/hc/en-us/articles/4402611273485-BlueStacks-5-offline-installer`<br>
+64 bit: https://ak-build.bluestacks.com/public/app-player/windows/nxt/5.22.166.1003/e0cbf0a49445273dc3c94ced970fd7d4/FullInstaller/x64/BlueStacksFullInstaller_5.22.166.1003_amd64_native.exe
+32 bit: https://ak-build.bluestacks.com/public/app-player/windows/nxt/5.14.21.1004/26a5440b147b9f4dd572002e7cb38f05/FullInstaller/x86/BlueStacksFullInstaller_5.14.21.1004_x86_native.exe
+
 <hr>
 ** Newest Video Guide Details on VietTube AI: https://youtube.com/giapca
