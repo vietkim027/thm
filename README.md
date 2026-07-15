@@ -348,6 +348,9 @@ Go to the Input Method tab, click Add, search for "Vietnamese", and select Unike
 ** Note: Enable ibus Module<br>
 `ibus export GTK_IM_MODULE=ibus`
 
+# Install Top 10 Tools for Kali Linux on WSL (Windows Subsystem for Linux)
+`sudo apt install kali-tools-top10`
+
 # Linux Mint Download
 `https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`<br>
 
