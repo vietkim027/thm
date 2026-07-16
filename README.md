@@ -230,7 +230,6 @@ Copy SetupRST_extracted to Root folder of ISO file
 # Office 365 Download and Install Word, Excel, PowerPoint only<br>
 * Office Deploy Tool: `https://www.microsoft.com/en-us/download/details.aspx?id=49117` , extract to get xml file then edit yourcustom.xml
 * Download Direct link: `https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img`<br>
-Or `https://www.fshare.vn/file/DMSUK2B4BYN3`
 * Open (or Mount) above .img file then extract Office folder and setup.exe file<br>
 * Exclude to don't install that app. Example:<br>
       `<ExcludeApp ID="Access" />`<br>
