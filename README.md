@@ -32,11 +32,6 @@ https://account.microsoft.com/billing/payments?refd=account.microsoft.com<br>
 * Cancel Microsoft Office 365<br>
 `https://account.microsoft.com/services/microsoft365/cancel?fref=billing-cancel`
 
-✔️**Google AI Pro 120 days Free**<br>
-https://g.co/g1referral/UUSLMZDH<br>
-`g.co/g1referral/UUSLMZDH`<br>
-✅Free 2 TB Google One, Gemini, VEO 3, Nano Banana Pro<br>
-
 **VEO 3 Prompts Update daily: https://prompt-master-ai.blogspot.com**<br>
 ✔️**VEO 3 Unlimited Free with Google Cloud**
 <br>`https://console.cloud.google.com/vertex-ai/studio/media/generate;tab=video`<br>
@@ -57,6 +52,7 @@ Step to Close Google Payment Profile
 * Google Family Sharing: `https://myaccount.google.com/family` or `https://g.co/YourFamily`
 * Google Pay wallet: `https://wallet.google.com`
 * Close Payments Profile: `https://payments.google.com/gp/w/home/settings`
+* Delete Sevices: `https://myaccount.google.com/deleteservices`
 * Turn on 2FA: `https://myaccount.google.com/signinoptions/twosv`<br>
 Video guide How to Enable 2FA: https://youtu.be/zJROVxZQYJE?si=Iy1shLKHRld69yuN
 <br>`https://youtu.be/zJROVxZQYJE?si=Iy1shLKHRld69yuN`
