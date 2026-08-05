@@ -346,6 +346,18 @@ Go to the Input Method tab, click Add, search for "Vietnamese", and select Unike
 # Install Top 10 Tools for Kali Linux on WSL (Windows Subsystem for Linux)
 `sudo apt install kali-tools-top10`
 
+# Reset your WSL sudo password
+If you've forgotten your WSL sudo password, Here is how to force a password reset:<br>
+Step 1) Open PowerShell or Command Prompt as Administrator<br>
+Step 2) Check your distribution name:<br>
+`wsl -l`<br>
+Step 3: Launch WSL as the root user<br>
+`wsl -d kali-linux -u root`<br>
+Step 4: Reset the password<br>
+`passwd your_username`<br>
+To find your_username, use this command:<br>
+`ls /home`
+
 # Linux Mint Download
 `https://pub.linuxmint.io/stable/22.3/linuxmint-22.3-cinnamon-64bit.iso`<br>
 
