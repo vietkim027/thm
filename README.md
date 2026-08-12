@@ -41,7 +41,8 @@ Step to Close Google Payment Profile
 1. You must Cancel Subscription first
 2. In Payment Methods, Remove
 3. Close Payment
-  
+
+* Close Payments Profile: `https://payments.google.com/gp/w/home/settings`  
 * `https://play.google.com/store/paymentmethods`
 * `https://play.google.com/store/account/subscriptions`
 * Payment Methods: `https://payments.google.com/gp/w/home/paymentmethods`
@@ -49,7 +50,6 @@ Step to Close Google Payment Profile
 * Cancel YouTube Membership: `https://www.youtube.com/paid_memberships`
 * Google Family Sharing: `https://myaccount.google.com/family` or `https://g.co/YourFamily`
 * Google Pay wallet: `https://wallet.google.com`
-* Close Payments Profile: `https://payments.google.com/gp/w/home/settings`
 * Delete Sevices: `https://myaccount.google.com/deleteservices`
 * Turn on 2FA: `https://myaccount.google.com/signinoptions/twosv`<br>
 Video guide How to Enable 2FA: https://youtu.be/zJROVxZQYJE?si=Iy1shLKHRld69yuN
