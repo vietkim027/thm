@@ -243,6 +243,8 @@ Copy SetupRST_extracted to Root folder of ISO file
 
 # Active Windows 11, 10, 8, 7 & Office 365, 2019, 2017, 2013, 2010 without Defender Disable<br>
 Microsoft Activation Scripts (MAS) Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.<br>
+If your download is blocked by Browser:<br>
+`https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?$format=zip`<br>
 `https://github.com/massgravel/Microsoft-Activation-Scripts`<br>
 Homepage: `https://massgrave.dev/`<br>
 Download: `https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`<br>
