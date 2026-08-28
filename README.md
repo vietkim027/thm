@@ -94,6 +94,9 @@ Important:
 3) Incognito (Private) window<br>
 4) Hotmail, don't need Gmail
 
+**ChatGPT offer 50% 3 months**
+`https://chatgpt.com/?promo_campaign=plus-3-months-50-pct-off#pricing`
+
 **K12-Teacher 29-Jan-2026**
 * Location: US
 Tip: Use RDP from Google<br>
