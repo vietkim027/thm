@@ -13,7 +13,7 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
 Or https://t.me/Akunding_store_bot?start=ref5801955911<br>
 Or https://t.me/PixVerifyBot?start=ref_5801955911<br>
 OR https://t.me/sheeridvn_bot?start=invite_5801955911
-* Working 12-Aug-2026<br>
+* Working 02-Sep-2026<br>
 
 # How to get Access Token in ChatGPT (OpenAI)
 https://chatgpt.com/api/auth/session<br>
