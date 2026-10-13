@@ -9,12 +9,13 @@ Join NOW ► https://bit.ly/binance1k<br>
 * https://myaccount.google.com/personal-info then change Birthday to 2002, Home and Language to US.<br>
 * URL: https://gemini.google/students<br>
 OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached
-* Bot:https://t.me/sheeridverifier_bot?start=REF5801955911<br>
-Or https://t.me/Akunding_store_bot?start=ref5801955911<br>
-Or https://t.me/PixVerifyBot?start=ref_5801955911<br>
-OR https://t.me/sheeridvn_bot?start=invite_5801955911<br>
-OR  https://t.me/gemini_plusv_bot?start=ref_3TQDLZ46<br>
-* Working 02-Oct-2026<br>
+* Bot:
+  1) https://t.me/sheeridverifier_bot?start=REF5801955911 | VN Banking<br>
+  2) https://t.me/Akunding_store_bot?start=ref5801955911<br>
+  3) https://t.me/PixVerifyBot?start=ref_5801955911<br>
+  4) https://t.me/sheeridvn_bot?start=invite_5801955911 | VN Banking<br>
+  5) https://t.me/gemini_plusv_bot?start=ref_3TQDLZ46 | VN Banking<br>
+* Working 12-Oct-2026<br>
 
 # How to get Access Token in ChatGPT (OpenAI)
 https://chatgpt.com/api/auth/session<br>
