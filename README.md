@@ -4,7 +4,7 @@ Join NOW ► https://bit.ly/binance1k<br>
 * How to Buy USDT, BTC, ETH ... in Binance: https://youtube.com/shorts/qNNX-JjacTk?si=yAKXF1afvGgdlnpo
 * How to Transfer/Add Money to Binance: https://youtube.com/shorts/RCC4gZYdPkk?si=Jp_IQZYkapDpjlaa
 
-# Google Gemini 3 Pro + VEO 3 Free Tips
+# Google Gemini 3 Pro, Gemini 4 Argon, VEO 3 Free Tips
 ✔️**Gemini Pro + 5 TB Google One Free**
 * https://myaccount.google.com/personal-info then change Birthday to 2002, Home and Language to US.<br>
 * URL: https://gemini.google/students<br>
@@ -15,7 +15,7 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
   3) https://t.me/PixVerifyBot?start=ref_5801955911<br>
   4) https://t.me/sheeridvn_bot?start=invite_5801955911 | VN Banking<br>
   5) https://t.me/gemini_plusv_bot?start=ref_3TQDLZ46 | VN Banking<br>
-* Working 12-Oct-2026<br>
+* Working 15-Oct-2026<br>
 
 # How to get Access Token in ChatGPT (OpenAI)
 https://chatgpt.com/api/auth/session<br>
