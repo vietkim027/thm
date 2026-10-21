@@ -26,8 +26,11 @@ The program is for early-stage companies. To qualify, you need:<br>
 * A valid company website for a product or project with a defined voice or audio use case
 * A personal LinkedIn profile and a company LinkedIn profile
 * No previous ElevenLabs startup grant
-2) Linkedin Premium with Premium Perks<br>
-First, Join Free 1 month (IP: VN) then Have Premium Perks Lovable 12 months, Notion Business 3 months, NordVPN 3 months     
+2) LinkedIn Premium with Premium Perks<br>
+First, Join Free 1 month (IP: VN) then Have Premium Perks Lovable 12 months, Notion Business 3 months, NordVPN 3 months<br>
+Join NOW to get 2 months LinkedIn Premium Business:<br>
+Hurry! Offer expires on Nov 3, 2026<br>
+http://www.linkedin.com/premium/redeem/?upsellOrderOrigin=premium_referrals_my_premium&coupon=xsgCk5aAi&customKey=ref_b&redeemTypeV2=REFERRAL_COUPON<br>
 
 # How to get Access Token in ChatGPT (OpenAI)
 https://chatgpt.com/api/auth/session<br>
