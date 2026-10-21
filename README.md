@@ -18,7 +18,7 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
 * Working 18-Oct-2026<br>
 
 # Newest OFFER Today
-1) Elevenlabs 12 months: https://elevenlabs.io/startup-grants
+1) Elevenlabs 12 months: https://elevenlabs.io/startup-grants<br>
 Who can apply for the ElevenLabs startup program?<br>
 The program is for early-stage companies. To qualify, you need:<br>
 * Fewer than 25 employees
@@ -26,7 +26,7 @@ The program is for early-stage companies. To qualify, you need:<br>
 * A valid company website for a product or project with a defined voice or audio use case
 * A personal LinkedIn profile and a company LinkedIn profile
 * No previous ElevenLabs startup grant
-2) Linkedin Premium with Premium Perks
+2) Linkedin Premium with Premium Perks<br>
 First, Join Free 1 month (IP: VN) then Have Premium Perks Lovable 12 months, Notion Business 3 months, NordVPN 3 months     
 
 # How to get Access Token in ChatGPT (OpenAI)
