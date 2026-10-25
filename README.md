@@ -5,7 +5,7 @@ Join NOW ► https://bit.ly/binance1k<br>
 * How to Transfer/Add Money to Binance: https://youtube.com/shorts/RCC4gZYdPkk?si=Jp_IQZYkapDpjlaa
 
 # Google Gemini 3 Pro, Gemini 4 Argon, VEO 3 Free Tips
-✔️**Gemini Pro + 5 TB Google One Free**
+✔️**Gemini Pro + 5 TB Google One 1 year Free**
 * https://myaccount.google.com/personal-info then change Birthday to 2002, Home and Language to US.<br>
 * URL: https://gemini.google/students<br>
 OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached
