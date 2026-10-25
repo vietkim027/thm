@@ -29,6 +29,8 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
 Canva, Autocad...
 12) https://t.me/lenguyenshop_bot<br>
 FPT Play, Duolingo, Notion, VietMap, Camscanner
+13) https://t.me/RichAIStoreBot<br>
+Capcut, Youtube, Coursera, Duolingo<br>
 * Working 25-Oct-2026<br>
 
 # Newest OFFER Today
