@@ -31,7 +31,7 @@ Canva, Autocad...
 FPT Play, Duolingo, Notion, VietMap, Camscanner
 13) https://t.me/RichAIStoreBot<br>
 Capcut, Youtube, Coursera, Duolingo<br>
-14) https://t.me/ShopeeLabs_bot?start=ref_5801955911<br>
+14) https://t.me/ShopeeLabs_bot?start=_tgr_u4bmeYYzNjM1<br>
 Edu email, Join Secret, Heygen, YouTube, Canva, Perplexcity, Nord vpn, Hostinger, Miro
 15) https://t.me/gemin_sheerid_pass_bot?start=ref_5801955911<br>
 Verify Google Student<br>
