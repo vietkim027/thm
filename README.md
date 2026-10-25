@@ -33,6 +33,8 @@ FPT Play, Duolingo, Notion, VietMap, Camscanner
 Capcut, Youtube, Coursera, Duolingo<br>
 14) https://t.me/ShopeeLabs_bot?start=ref_5801955911<br>
 Edu email, Join Secret, Heygen, YouTube, Canva, Perplexcity, Nord vpn, Hostinger, Miro
+15) https://t.me/gemin_sheerid_pass_bot?start=ref_5801955911<br>
+Verify Google Student<br>
 * Working 25-Oct-2026<br>
 
 # Newest OFFER Today
