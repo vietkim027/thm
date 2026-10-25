@@ -26,7 +26,9 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
   10) https://t.me/EliteMethodsStoreBot?start=5801955911<br>
   GitHub, YouTube, Telegram,  SurfShark vpn, Canva...Cheapest B0t
 11) https://t.me/ShopAITech_bot?start=ref_5801955911<br>
-Canva, Autocad... 
+Canva, Autocad...
+12) https://t.me/lenguyenshop_bot<br>
+FPT Play, Duolingo, Notion, VietMap, Camscanner
 * Working 25-Oct-2026<br>
 
 # Newest OFFER Today
