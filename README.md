@@ -9,7 +9,7 @@ Join NOW ► https://bit.ly/binance1k<br>
 * https://myaccount.google.com/personal-info then change Birthday to 2002, Home and Language to US.<br>
 * URL: https://gemini.google/students<br>
 OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached
-* Bot:
+* B0t working 100%:
   1) https://t.me/sheeridverifier_bot?start=REF5801955911 | VN Banking<br>
   2) https://t.me/Akunding_store_bot?start=ref5801955911<br>
   3) https://t.me/PixVerifyBot?start=ref_5801955911<br>
@@ -25,6 +25,8 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
   Linkedin, Nord vpn, Heyden, Muse AI, Capcut, Lovable,  Prime Video, Figma, ElevenLabs, Join Secret, Notion, Gemini Pro<br>
   10) https://t.me/EliteMethodsStoreBot?start=5801955911<br>
   GitHub, YouTube, Telegram,  SurfShark vpn, Canva...Cheapest B0t
+11) https://t.me/ShopAITech_bot?start=ref_5801955911<br>
+Canva, Autocad... 
 * Working 25-Oct-2026<br>
 
 # Newest OFFER Today
