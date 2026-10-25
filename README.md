@@ -37,6 +37,8 @@ Edu email, Join Secret, Heygen, YouTube, Canva, Perplexcity, Nord vpn, Hostinger
 Verify Google Student<br>
 16) https://t.me/xuyinsbot?start=_tgr_zUtBdYwzYzM1<br>
 ChatGPT, Capcut, Amazon Prime Video, Office, Windows, ICloud, SurfShark
+17) https://t.me/sabubu_lex_bot?start=_tgr_dczIS21hZTg1<br>
+Miro, Figma, Jetbrains,  Autocad, Gg 1 edu
 * Working 25-Oct-2026<br>
 
 # Newest OFFER Today
