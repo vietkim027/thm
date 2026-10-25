@@ -13,6 +13,7 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
   1) https://t.me/sheeridverifier_bot?start=REF5801955911 | VN Banking<br>
   2) https://t.me/Akunding_store_bot?start=ref5801955911<br>
   3) https://t.me/PixVerifyBot?start=ref_5801955911<br>
+  Duolingo, Nord vpn, Adobe express
   4) https://t.me/sheeridvn_bot?start=invite_5801955911 | VN Banking<br>
   5) https://t.me/gemini_plusv_bot?start=ref_3TQDLZ46 | VN Banking<br>
   6) https://t.me/Tainguyen_gptbot<br>
