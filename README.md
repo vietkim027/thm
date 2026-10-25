@@ -35,6 +35,8 @@ Capcut, Youtube, Coursera, Duolingo<br>
 Edu email, Join Secret, Heygen, YouTube, Canva, Perplexcity, Nord vpn, Hostinger, Miro
 15) https://t.me/gemin_sheerid_pass_bot?start=ref_5801955911<br>
 Verify Google Student<br>
+16) https://t.me/xuyinsbot?start=_tgr_zUtBdYwzYzM1<br>
+ChatGPT, Capcut, Amazon Prime Video, Office, Windows, ICloud, SurfShark
 * Working 25-Oct-2026<br>
 
 # Newest OFFER Today
