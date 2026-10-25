@@ -36,7 +36,7 @@ Edu email, Join Secret, Heygen, YouTube, Canva, Perplexcity, Nord vpn, Hostinger
 15) https://t.me/gemin_sheerid_pass_bot?start=ref_5801955911<br>
 Verify Google Student<br>
 16) https://t.me/xuyinsbot?start=_tgr_zUtBdYwzYzM1<br>
-ChatGPT, Capcut, Amazon Prime Video, Office, Windows, ICloud, SurfShark
+ChatGPT, Capcut, Amazon Prime Video, Office, Windows, ICloud, SurfShark, GitHub
 17) https://t.me/sabubu_lex_bot?start=_tgr_dczIS21hZTg1<br>
 Miro, Figma, Jetbrains,  Autocad, Gg 1 edu
 18) https://t.me/Rainnystore_bot?start=_tgr_9twTJUFiMjZl<br>
