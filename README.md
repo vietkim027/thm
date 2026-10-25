@@ -29,7 +29,7 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
 Canva, Autocad...
 12) https://t.me/lenguyenshop_bot<br>
 FPT Play, Duolingo, Notion, VietMap, Camscanner
-13) https://t.me/RichAIStoreBot<br>
+13) https://t.me/RichAIStoreBot?start=_tgr_PIyS3WY1YjI1<br>
 Capcut, Youtube, Coursera, Duolingo<br>
 14) https://t.me/ShopeeLabs_bot?start=_tgr_u4bmeYYzNjM1<br>
 Edu email, Join Secret, Heygen, YouTube, Canva, Perplexcity, Nord vpn, Hostinger, Miro
