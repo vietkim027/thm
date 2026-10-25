@@ -19,8 +19,8 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
   Gemini 1 Year with 5TB, Antigravity, Hotmail<br>
   7) https://t.me/skylinevnn_bot<br>
   SurfShark vpn, Perplexcity, Adidas code<br>
-  8) https://t.me/DMOshop_bot<br>
-  Express VPN, Muse AI, Grok, Capcut<br>
+  8) <br>https://t.me/DMOshop_bot?start=g_dsJmzwKo<br>
+  Express VPN, Muse AI, Grok, Capcut, HMA, Leonardo<br>
   9) https://t.me/PrimeOfficialsStore_bot?start=ref_5801955911<br>
   Linkedin, Nord vpn, Heyden, Muse AI, Capcut, Lovable,  Prime Video, Figma, ElevenLabs, Join Secret, Notion, Gemini Pro<br>
   10) https://t.me/EliteMethodsStoreBot?start=5801955911<br>
