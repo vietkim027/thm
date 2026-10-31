@@ -39,7 +39,7 @@ Verify Google Student<br>
 16) https://t.me/xuyinsbot?start=_tgr_zUtBdYwzYzM1<br>
 ChatGPT, Capcut, Amazon Prime Video, Office, Windows, ICloud, SurfShark, GitHub
 17) https://t.me/sabubu_lex_bot?start=_tgr_dczIS21hZTg1<br>
-Miro, Figma, Jetbrains,  Autocad, Gg 1 edu
+Miro, Figma, Jetbrains,  Autocad, Google 1 edu
 18) https://t.me/Rainnystore_bot?start=_tgr_9twTJUFiMjZl<br>
 N8n, HBO, Suno,  LinkedIn, ICloud, Adobe express Premium,  FPT Play
 19) https://t.me/Shoptifotele_bot?start=_tgr_3Qu7MMs0ZTU1<br>
@@ -47,8 +47,8 @@ Youtube channel, Gmail, Zoom, Veo 3 Ultra
 20) https://t.me/vaultstorex_bot?start=_tgr_gStdYYA2M2U1<br>
 Microsoft Office 365, Gemini Pro, Capcut,  Apple Music<br>
 21) https://t.me/pixel_verification_bot?start=_tgr_5i8Jjoc5Yjc9<br>
-Google Ai Pro 3 Months, 18 months<br>
-* Working 27-Oct-2026<br>
+Google Ai Pro 3 Months, 6 months<br>
+* Working 30-Oct-2026<br>
 
 # Newest OFFER Today
 1) Elevenlabs 12 months: https://elevenlabs.io/startup-grants<br>
@@ -108,7 +108,7 @@ Video guide How to Enable 2FA: https://youtu.be/zJROVxZQYJE?si=Iy1shLKHRld69yuN
   
 **✔️VEO 3 Free Tips**
 * Change Birthday: https://myaccount.google.com/birthday/
-* `https://one.google.com/ai-student?g1_landing_page=75` - Gemini Pro 12 Months Free with 2 TB Google One
+* `https://one.google.com/ai-student?g1_landing_page=75` - Gemini Pro 12 Months Free with 5 TB Google One
 * `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
 *  `https://docs.google.com/videos` - Unlimited VEO 3.1
 * Canada, US, UK, Netherland, Germany ... IP: Psiphon or CyberGhost VPN
