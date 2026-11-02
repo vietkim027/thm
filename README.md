@@ -9,7 +9,7 @@ Join NOW ► https://bit.ly/binance1k<br>
 * https://myaccount.google.com/personal-info then change Birthday to 2002, Home and Language to US.<br>
 * URL: https://gemini.google/students<br>
 OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached
-* B0t working 100%:
+# B0t working 100%:
   1) https://t.me/sheeridverifier_bot?start=REF5801955911 | VN Banking<br>
   2) https://t.me/Akunding_store_bot?start=ref5801955911<br>
   3) https://t.me/PixVerifyBot?start=ref_5801955911<br>
