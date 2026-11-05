@@ -112,7 +112,9 @@ Video guide How to Enable 2FA: https://youtu.be/zJROVxZQYJE?si=Iy1shLKHRld69yuN
 * `https://labs.google/fx/tools/flow` - VEO 3 Free with Google Flow
 *  `https://docs.google.com/videos` - Unlimited VEO 3.1
 * Canada, US, UK, Netherland, Germany ... IP: Psiphon or CyberGhost VPN
-* Sheer ID Verifier Bot: https://t.me/sheeridverifier_bot?start=REF5801955911 Working 100%
+* Sheer ID Verifier Bot: https://t.me/sheeridverifier_bot?start=REF5801955911 Working 100%<br>
+Sheerid URL like:<br>
+https://services.sheerid.com/verify/67c8...<br>
 * Free EDU Email 2026:<br>
   `tempumail.com` <br>
   `etempmail.com` (US .edu email)<br>
