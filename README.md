@@ -4,7 +4,7 @@ Join NOW ► https://bit.ly/binance1k<br>
 * How to Buy USDT, BTC, ETH ... in Binance: https://youtube.com/shorts/qNNX-JjacTk?si=yAKXF1afvGgdlnpo
 * How to Transfer/Add Money to Binance: https://youtube.com/shorts/RCC4gZYdPkk?si=Jp_IQZYkapDpjlaa
 
-# Google Gemini 3 Pro, Gemini 4 Argon, VEO 3 Free Tips
+# Google Gemini 3 Pro, Argon, VEO 3, Antigravity Free Tips
 ✔️**Gemini Pro + 5 TB Google One 1 year Free**
 * https://myaccount.google.com/personal-info then change Birthday to 2002, Home and Language to US.<br>
 * URL: https://gemini.google/students<br>
@@ -48,7 +48,7 @@ Youtube channel, Gmail, Zoom, Veo 3 Ultra
 Microsoft Office 365, Gemini Pro, Capcut,  Apple Music<br>
 21) https://t.me/pixel_verification_bot?start=_tgr_5i8Jjoc5Yjc9<br>
 Google Ai Pro 3 Months, 6 months<br>
-* Working 02-Nov-2026<br>
+* Working 06-Nov-2026<br>
 
 # Newest OFFER Today
 1) Elevenlabs 12 months: https://elevenlabs.io/startup-grants<br>
