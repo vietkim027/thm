@@ -48,6 +48,8 @@ Youtube channel, Gmail, Zoom, Veo 3 Ultra
 Microsoft Office 365, Gemini Pro, Capcut,  Apple Music<br>
 21) https://t.me/pixel_verification_bot?start=_tgr_5i8Jjoc5Yjc9<br>
 Google Ai Pro 3 Months, 6 months<br>
+22) https://t.me/kingpremiumai_bot?start=_tgr_IhlGSa04NDdl | VNĐ, USDT<br>
+US Edu Email, Gmail, Hotmail, Kling, Jetbrains, Brave VPN, Azure
 * Working 06-Nov-2026<br>
 
 # Newest OFFER Today
