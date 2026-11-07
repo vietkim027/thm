@@ -4,7 +4,7 @@ Join NOW ► https://bit.ly/binance1k<br>
 * How to Buy USDT, BTC, ETH ... in Binance: https://youtube.com/shorts/qNNX-JjacTk?si=yAKXF1afvGgdlnpo
 * How to Transfer/Add Money to Binance: https://youtube.com/shorts/RCC4gZYdPkk?si=Jp_IQZYkapDpjlaa
 
-# Google Gemini 3 Pro, Argon, VEO 3, Antigravity Free Tips
+# Google Gemini 3 Pro, Argon, VEO 3 (Omni Flash 1.2), Antigravity Free Tips
 ✔️**Gemini Pro + 5 TB Google One 1 year Free**
 * https://myaccount.google.com/personal-info then change Birthday to 2002, Home and Language to US.<br>
 * URL: https://gemini.google/students<br>
