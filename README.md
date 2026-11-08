@@ -27,7 +27,7 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
   10) https://t.me/EliteMethodsStoreBot?start=5801955911<br>
   GitHub, YouTube, Telegram,  SurfShark vpn, Canva...Cheapest B0t
 11) https://t.me/ShopAITech_bot?start=ref_5801955911<br>
-Canva, Autocad...
+Gemini Pro+YouTube Pre 2 years, Canva, Autocad...
 12) https://t.me/lenguyenshop_bot<br>
 FPT Play, Duolingo, Notion, VietMap, Camscanner
 13) https://t.me/RichAIStoreBot?start=_tgr_PIyS3WY1YjI1<br>
@@ -39,7 +39,7 @@ Verify Google Student<br>
 16) https://t.me/xuyinsbot?start=_tgr_zUtBdYwzYzM1<br>
 ChatGPT, Capcut, Amazon Prime Video, Office, Windows, ICloud, SurfShark, GitHub
 17) https://t.me/sabubu_lex_bot?start=_tgr_dczIS21hZTg1<br>
-Miro, Figma, Jetbrains,  Autocad, Google 1 edu
+Miro, Google Pixel, Figma, Jetbrains,  Autocad, Google 1 edu
 18) https://t.me/Rainnystore_bot?start=_tgr_9twTJUFiMjZl<br>
 N8n, HBO, Suno,  LinkedIn, ICloud, Adobe express Premium,  FPT Play
 19) https://t.me/Shoptifotele_bot?start=_tgr_3Qu7MMs0ZTU1<br>
