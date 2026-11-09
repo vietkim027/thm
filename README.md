@@ -151,6 +151,11 @@ Important:
 **ChatGPT offer 50% 3 months**
 `https://chatgpt.com/?promo_campaign=plus-3-months-50-pct-off#pricing`
 
+**ChatGPT Plus offer 100% 1 month**
+`https://chatgpt.com/?promo_campaign=plus-1-month-free`
+**ChatGPT offer 100% 12 months: Student**
+`https://chatgpt.com/codex/offers/students`
+
 **K12-Teacher 29-Jan-2026**
 * Location: US
 Tip: Use RDP from Google<br>
