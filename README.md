@@ -159,11 +159,13 @@ Important:
 **2 months:**
 `https://github.com/JUk1-GH/gpt-promo-scanner`
 
-**3-12 months ChatGPT GO / Outside of US, Brazil**
-Revolut App
+**3-12 months ChatGPT GO / Outside of US, Brazil**<br>
+`Revolut.com`
 
-**ChatGPT offer 100% 12 months: Student**
+**ChatGPT offer 100% 12 months: Student Codex Pack**
 `https://chatgpt.com/codex/offers/students`
+
+**GitHub Student Pack**
 
 **K12-Teacher**
 * Location: US
