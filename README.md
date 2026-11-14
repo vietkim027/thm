@@ -50,7 +50,7 @@ Microsoft Office 365, Gemini Pro, Capcut,  Apple Music<br>
 Google Ai Pro 3 Months, 6 months<br>
 22) https://t.me/kingpremiumai_bot?start=_tgr_IhlGSa04NDdl | VNĐ, USDT<br>
 US Edu Email, Gmail, Hotmail, Kling, Jetbrains, Brave VPN, Azure
-* Working 11-Nov-2026<br>
+* Working 13-Nov-2026<br>
 
 # Newest OFFER Today
 1) Elevenlabs 12 months: https://elevenlabs.io/startup-grants<br>
@@ -85,7 +85,7 @@ https://account.microsoft.com/billing/payments?refd=account.microsoft.com<br>
 * Cancel Microsoft Office 365<br>
 `https://account.microsoft.com/services/microsoft365/cancel?fref=billing-cancel`
 
-**VEO 3 Prompts Update daily: https://prompt-master-ai.blogspot.com**<br>
+**VEO 3, 4 Prompts Update daily: https://prompt-master-ai.blogspot.com**<br>
 ✔️**VEO 3 Unlimited Free with Google Cloud**
 <br>`https://console.cloud.google.com/vertex-ai/studio/media/generate;tab=video`<br>
 * Tips: Install new Browwer, signup new Google Account, Old > 18 Yrs
@@ -155,6 +155,12 @@ Important:
 
 **ChatGPT Plus offer 100% 1 month**
 `https://chatgpt.com/?promo_campaign=plus-1-month-free`
+
+**2 months:**
+`https://github.com/JUk1-GH/gpt-promo-scanner`
+
+**3-12 months ChatGPT GO / Outside of US, Brazil**
+Revolut App
 
 **ChatGPT offer 100% 12 months: Student**
 `https://chatgpt.com/codex/offers/students`
