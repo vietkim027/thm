@@ -39,7 +39,7 @@ Verify Google Student<br>
 16) https://t.me/xuyinsbot?start=_tgr_zUtBdYwzYzM1<br>
 ChatGPT, Capcut, Amazon Prime Video, Office, Windows, ICloud, SurfShark, GitHub
 17) https://t.me/sabubu_lex_bot?start=_tgr_dczIS21hZTg1<br>
-Miro, Google Pixel, Figma, Jetbrains,  Autocad, Google 1 edu
+Miro, Google Pixel, Figma, Jetbrains,  Autocad, Google 1 edu 12 months (Auto Verify Sheerid) 
 18) https://t.me/Rainnystore_bot?start=_tgr_9twTJUFiMjZl<br>
 N8n, HBO, Suno,  LinkedIn, ICloud, Adobe express Premium,  FPT Play
 19) https://t.me/Shoptifotele_bot?start=_tgr_3Qu7MMs0ZTU1<br>
@@ -50,7 +50,7 @@ Microsoft Office 365, Gemini Pro, Capcut,  Apple Music<br>
 Google Ai Pro 3 Months, 6 months<br>
 22) https://t.me/kingpremiumai_bot?start=_tgr_IhlGSa04NDdl | VNĐ, USDT<br>
 US Edu Email, Gmail, Hotmail, Kling, Jetbrains, Brave VPN, Azure
-* Working 13-Nov-2026<br>
+* Working 14-Nov-2026<br>
 
 # Newest OFFER Today
 1) Elevenlabs 12 months: https://elevenlabs.io/startup-grants<br>
@@ -163,7 +163,9 @@ Important:
 `Revolut.com`
 
 **ChatGPT offer 100% 12 months: Student Codex Pack**
-`https://chatgpt.com/codex/offers/students`
+`https://chatgpt.com/codex/offers/students`<br>
+Or <br>
+`https://t.me/sabubu_lex_bot?start=_tgr_dczIS21hZTg1`
 
 **GitHub Student Pack**
 
