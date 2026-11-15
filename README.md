@@ -69,7 +69,7 @@ Hurry! Offer expires on Nov 3, 2026<br>
 http://www.linkedin.com/premium/redeem/?upsellOrderOrigin=premium_referrals_my_premium&coupon=xsgCk5aAi&customKey=ref_b&redeemTypeV2=REFERRAL_COUPON<br>
 3) Adobe Trial Free 4 months<br>
   https://commerce.adobe.com/store/recommendation?items%5B0%5D%5Bid%5D=D0440AB0F2F7F2F2CB39657F45BC5D56&cli=creative&co=US&lang=en&sdid=WT7FHSB9&mv=affiliate&ss=commitment&rrItems%5B0%5D%5Bid%5D=D0440AB0F2F7F2F2CB39657F45BC5D56&utm_source=resourify.com&ref=header<br>
-  4) Gemini Plus 12 months from Internshala
+  4) Gemini Plus FREE 12 months from Internshala
   https://internshala.com/
 
 # How to get Access Token in ChatGPT (OpenAI)
