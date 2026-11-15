@@ -12,6 +12,7 @@ OR https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&u
 # B0t working 100%:
   1) https://t.me/sheeridverifier_bot?start=REF5801955911 | VN Banking<br>
   2) https://t.me/Akunding_store_bot?start=ref5801955911<br>
+  Muse AI 31B token, N8N, Gemini Plus 6 months, Claude API, Admin MS365... 
   3) https://t.me/PixVerifyBot?start=ref_5801955911<br>
   Duolingo, Nord vpn, Adobe express
   4) https://t.me/sheeridvn_bot?start=invite_5801955911 | VN Banking<br>
