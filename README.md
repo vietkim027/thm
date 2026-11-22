@@ -51,7 +51,7 @@ Microsoft Office 365, Gemini Pro, Capcut,  Apple Music<br>
 Google Ai Pro 3 Months, 6 months<br>
 22) https://t.me/kingpremiumai_bot?start=_tgr_IhlGSa04NDdl | VNĐ, USDT<br>
 US Edu Email, Gmail, Hotmail, Kling, Jetbrains, Brave VPN, Azure, ChatGPT, LinkedIn
-* Working 14-Nov-2026<br>
+* Working 22-Nov-2026<br>
 
 # Newest OFFER Today
 1) Elevenlabs 12 months: https://elevenlabs.io/startup-grants<br>
