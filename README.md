@@ -53,7 +53,12 @@ Google Ai Pro 3 Months, 6 months<br>
 US Edu Email, Gmail, Hotmail, Kling, Jetbrains, Brave VPN, Azure, ChatGPT, LinkedIn
 * Working 25-Nov-2026<br>
 
+
+**Directory of Google One offers:** <br>
+`https://support.google.com/googleone/thread/458301653`<br>
+
 # Newest OFFER Today
+
 1) Elevenlabs 12 months: https://elevenlabs.io/startup-grants<br>
 Who can apply for the ElevenLabs startup program?<br>
 The program is for early-stage companies. To qualify, you need:<br>
@@ -153,7 +158,7 @@ Important:
 1) Hide your IP
 2) Clear Cache
 3) Incognito (Private) window<br>
-4) Hotmail, don't need Gmail
+4) Hotmail, don't need Gmail<br>
 
 **ChatGPT offer 50% 3 months**
 `https://chatgpt.com/?promo_campaign=plus-3-months-50-pct-off#pricing`
@@ -169,6 +174,8 @@ Important:
 
 **ChatGPT offer 100% 12 months: Student Codex Pack**
 `https://chatgpt.com/codex/offers/students`<br>
+Or <br>
+Back to School `https://chatgpt.com/students/2026`<br>
 Or <br>
 `https://t.me/sabubu_lex_bot?start=_tgr_dczIS21hZTg1`
 
